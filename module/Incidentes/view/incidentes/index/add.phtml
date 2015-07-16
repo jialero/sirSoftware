@@ -1,0 +1,100 @@
+<?php
+$this->headScript()->appendFile($this->basePath('/js/jquery.form.js'));
+//$this->headLink()->appendStylesheet($this->basePath('/css/estilosMenuVertical.css'));
+?>
+
+<?php
+echo "<div class='container'>";
+echo "<div class='row'>"
+ . "<div class='col-xs-12 descripcion'><span class='glyphicon glyphicon-cog'></span>&nbsp&nbspAñadir archivo</div>"
+ . "<hr></div>";
+echo "<div class='row'>";
+echo "<div class='col-xs-12 col-sm-5 col-md-8'>";
+$form = $this->form;
+$form->setAttribute('method', 'post');
+$form->setAttribute('class', 'form-configuracion');
+$form->setAttribute('role', 'form');
+echo $this->form()->openTag($form);
+//echo $this->formFileSessionProgress();
+echo $this->formFileApcProgress();
+foreach ($form->getElements() as $campo) {
+    echo $this->formRow($campo) . "<br>";
+}
+echo $this->form()->closeTag();
+echo "</div>";
+echo "<div id='progress' class='help-block'>
+    <div class='progress progress-info progress-striped'>
+        <div class='bar'></div>
+    </div>
+    <p></p>
+    </div>";
+echo "</div>";
+?>
+<script>
+    var progressInterval;
+
+    function getProgress() {
+        // Poll our controller action with the progress id    
+        //var url = 'http://localhost:4321/outPruebas/public/uploadProgress';
+        data = $('#progress_key').val();
+        //console.log("url: "+url);
+        $.ajax({
+            async: true,
+            type: "POST",
+            data: {'id': data},
+            url: "<?= $this->basePath("/uploadProgress") ?>",
+            success: function(datos) {
+                console.log(datos);
+                opciones = JSON.parse(datos);
+                $.each(opciones, function(clave, valor)
+                {
+                    console.log(clave + " - " + valor);
+                    if(valor===false)
+                    {
+                        var value = Math.floor((datos.current / datos.total) * 100);
+                        showProgress(value, 'Uploading...');
+                    }
+                    else
+                    {
+                        showProgress(100, 'Complete!');
+                        clearInterval(progressInterval);
+                    }
+                });
+            }
+        });
+        /*$.getJSON(url, function(data) {
+         console.log("DATA"+data);
+         if (data.status && !data.status.done) {
+         var value = Math.floor((data.status.current / data.status.total) * 100);
+         showProgress(value, 'Uploading...');
+         } else {
+         showProgress(100, 'Complete!');
+         clearInterval(progressInterval);
+         }
+         });*/
+    }
+
+    function startProgress() {
+        showProgress(0, 'Starting upload...');
+        progressInterval = setInterval(getProgress, 900);
+    }
+
+    function showProgress(amount, message) {
+        $('#progress').show();
+        $('#progress .bar').width(amount + '%');
+        $('#progress > p').html(message);
+        if (amount < 100) {
+            $('#progress .progress')
+                    .addClass('progress-info active')
+                    .removeClass('progress-success');
+        } else {
+            $('#progress .progress')
+                    .removeClass('progress-info active')
+                    .addClass('progress-success');
+        }
+    }
+
+    $(function() {// Register a 'submit' event listener on the form to perform the AJAX POST
+        $('#importar').click(startProgress);
+    });
+</script>

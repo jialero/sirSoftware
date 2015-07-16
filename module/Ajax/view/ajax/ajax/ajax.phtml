@@ -1,0 +1,15 @@
+<!-- css -->
+<!-- the custom UI is based on jQueryUI theme you've downloaded -->
+<?php $this->headLink()
+            ->prependStylesheet($this->basePath() . '/js/jqueryUI/jquery-ui.css'); ?>
+<!-- Js -->            
+<?php  $this->headScript()
+            ->appendFile($this->basePath() . '/js/jqueryUI/jquery-ui.js') 
+            ->appendFile($this->basePath() . '/js/ajax.js'); ?>
+ 
+<a id="showform" href="<?php echo $this->url('ajax/default',
+                    array('action'=>'showform', 'controller'=>'ajax')); ?>">Muestre Formulario</a>
+                     
+<!-- empty div to save dialog temporary -->
+<div id="winpopup"></div>
+

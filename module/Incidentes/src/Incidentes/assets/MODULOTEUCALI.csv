@@ -1,0 +1,1283 @@
+CODIGO;EMPRESA;DESCRIPCION;MOD_PADRE
+IFR-INI-0;86012348;IFRS;ACIF0
+CON-INI-0;86012348;Contabilidad;ACON0
+ACT-INI-0;86012348;Activos Fijos;ACT0
+ACT-ACT0-1;86012348;Creaciones;ACT1
+ACT-ACT1-1;86012348;Parametros;ACT11
+ACT-ACT0-2;86012348;Actualizaciones;ACT2
+ACT-ACT0-3;86012348;Consultas;ACT3
+ACT-ACT0-4;86012348;Reportes Generales;ACT4
+ACT-ACT0-5;86012348;Reportes Maestros;ACT5
+IFR-ACIF0-4;86012348;Activos Fijos y Diferidos;ACTIF
+ACT-ACT0-6;86012348;Actualizaciones IFRS;actn
+CHA-ACHA-10;86012348;Administrar;ADM
+CHA-ACHA-9;86012348;Auditoria;AUD
+IFR-US3-1;86012348;Libros Auxiliares;auxd
+IFR-IFR2-1;86012348;Libros Auxiliares;auxp
+IFR-US3-2;86012348;Balances;bald
+IFR-IFR2-2;86012348;Balances;BALP
+IFR-US$-2;86012348;P y G PUC Dolares;BC04
+CMN-COM4-1;86012348;Ordenes de Compra Bienes;BIEN
+IFR-US$-1;86012348;Balance a Nivel de Auxiliares;BUSO
+CHA-INI-0;86012348;Chairman;ACHA
+TES-CCCCC-13;86012348;Reedicion de Cheques;CHE13
+CON-ACON0-4;86012348;Cierre Periodo Fiscal;CIE
+CMN-INI-0;86012348;Compras e Importaciones;COM0
+CMN-COM0-1;86012348;Creaciones;COM1
+CMN-COM1-1;86012348;Parametros;COM11
+CMN-COM0-2;86012348;Proveedor / Producto;COM2
+CMN-COM0-5;86012348;Compras / Importaciones;COM4
+CMN-COM4-3;86012348;Consultas;COM46
+CMN-COM4-4;86012348;Informes;COM47
+CMN-COM0-6;86012348;Informes Estadisticos;COM5
+CHA-ACHA-1;86012348;Contabilidad y Tesoreria;CON
+CON-ACON0-1;86012348;Contabilidad General;CON
+CON-CON-1;86012348;Creaciones;CON1
+CON-CON1-3;86012348;Maestro de Parametros;CON11
+CON-CON-2;86012348;Actualizaciones;CON2
+CON-CON-3;86012348;Consultas;CON3
+CON-CON-4;86012348;Reportes Contables;CON4
+CON-CON4-3;86012348;Balance A Nivel de Auxiliares;CON43
+CON-CON4-5;86012348;Libros Auxiliares;CON45
+CON-CON4-7;86012348;PYG A Nivel del PUC;CON47
+CON-CON4-8;86012348;Balances A Nivel del PUC;CON48
+CON-CON-5;86012348;Reportes Especiales;CON5
+CON-CON-6;86012348;Reportes Maestros;CON6
+CON-CON-7;86012348;Auditorias;CON7
+CHA-ACHA-2;86012348;Cuentas Por Cobrar;CXC
+CXC-INI-0;86012348;Cuentas Por Cobrar;CXC0
+CXC-CXC0-1;86012348;Creaciones;CXC1
+CXC-CXC1-1;86012348;Parametros;CXC11
+CXC-CXC0-2;86012348;Actualizaciones;CXC2
+CXC-CXC0-3;86012348;Consultas;CXC3
+CXC-CXC0-4;86012348;Informes Mensuales;CXC4
+CXC-CXC4-5;86012348;Analisis y Vencimientos;CXC44
+CXC-CXC0-5;86012348;Otros Informes;CXC5
+CXC-CXC0-6;86012348;Informes en Dolares;CXC6
+CXC-CXC0-7;86012348;Consulta En Dolares;CXC7
+CXP-INI-0;86012348;Cuentas Por Pagar;CXP0
+CXP-CXP0-1;86012348;Creaciones Generales;CXP1
+CXP-CXP1-1;86012348;Creacion Parametros;CXP11
+CXP-CXP0-2;86012348;Actualizaciones;CXP2
+CXP-CXP0-3;86012348;Reportes Generales;CXP3
+CXP-CXP0-4;86012348;Consultas Generales;CXP4
+CON-ACON0-6;86012348;Declaraciones;dec
+CMN-COM0-3;86012348;Distribucion de Costos;DIS
+NOM-NOM1E-8;86012348;Dotaciones;DOTN
+CHA-ACHA-3;86012348;Ventas;FAC
+FAN-INI-0;86012348;Facturación Nueva;FAC0
+FAN-FAC0-1;86012348;Creaciones;FAC1
+FAN-FAC0-2;86012348;Actualizaciones;FAC2
+FAN-FAC0-3;86012348;Consultas;FAC3
+FAN-FAC0-4;86012348;Informes Generales;FAC4
+FAN-FAC0-7;86012348;Informes Cultivos de Flor;FAC7
+FAN-FAC0-8;86012348;Informes de Pedidos y O.Fijas;FAC8
+FAN-FAC0-9;86012348;Informes Produccion;FAC9
+FAN-FAC2-18;86012348;Anular / Borrar Documentos;FACBA
+FAN-FAC0-10;86012348;Facturas Proforma;FACP
+FAN-FACP-1;86012348;Actualizaciones;FACP1
+FAN-FACP-2;86012348;Consultas;FACP2
+FAN-FACP-3;86012348;Reportes;FACP3
+CON-ACON0-2;86012348;Modulo de Fiscales;FIS
+CHA-ACHA-7;86012348;IFRS Pesos;IF$
+IFR-ACIF0-1;86012348;IFRS Pesos;IFR
+CON-IFRS-1;86012348;Actualizaciones;IFR1
+IFR-IFR-1;86012348;Actualizaciones;IFR1
+CON-IFRS-2;86012348;Reportes;IFR2
+IFR-IFR-2;86012348;Reportes;IFR2
+CON-IFRS-3;86012348;Consultas;IFR3
+IFR-IFR-3;86012348;Consultas;IFR3
+IFR-ACIF0-2;86012348;IFRS Dolares;IFUS
+CHA-ACHA-4;86012348;Informes de Contabilidad;INFC
+CHA-ACHA-6;86012348;Inventarios;INV
+INV-INI-0;86012348;Inventarios;INV0
+INV-INV0-1;86012348;Creaciones;INV1
+INV-INV1-1;86012348;Parametros;INV11
+INV-INV0-2;86012348;Actualizacion;INV2
+INV-INV0-3;86012348;Consultas;INV3
+INV-INV0-4;86012348;Informes;INV4
+INV-INV0-5;86012348;Inventario Fisico;INV5
+INV-INV0-6;86012348;Estadisticas;INV6
+INV-INV4-3;86012348;Existencias y Movimientos Valorizados;INVR1
+INV-INV4-4;86012348;Novedades;INVR2
+INV-INV4-14;86012348;Novedades Produccion de Flor;INVRF
+IFR-ACIF0-3;86012348;NICS;NIC
+NOM-INI-0;86012348;Nomina;NOM0
+NOM-NOM0-1;86012348;Creaciones;nom1
+NOM-NOM1-1;86012348;Parametros Generales;nom1a
+NOM-NOM1-2;86012348;Parametros Cambio Anual;NOM1B
+NOM-NOM1-3;86012348;Parametros Contabilizaciones;NOM1C
+NOM-NOM1-4;86012348;Maestro de Empleados;NOM1D
+NOM-NOM1-5;86012348;Otros Maestros;NOM1E
+NOM-NOM1-6;86012348;Aumento de Salarios;NOM1F
+NOM-NOM0-2;86012348;Procesos Pre-Liquidacion;NOM2
+NOM-NOM2-1;86012348;Creaciones;NOM2A
+NOM-NOM2-2;86012348;Consultas;NOM2B
+NOM-NOM2-3;86012348;Reportes;NOM2C
+NOM-NOM2C-11;86012348;Parte de Diario Horas;NOM2X
+NOM-NOM0-3;86012348;Liquidacion de Nomina;NOM3
+NOM-NOM0-9;86012348;Dotaciones;NOM30
+NOM-NOM0-4;86012348;Procesos Post-Liquidacion;NOM4
+NOM-NOM4-1;86012348;Reportes;NOM4A
+NOM-NOM4-2;86012348;Consultas Nominas Liquidadas;NOM4B
+NOM-NOM4-3;86012348;Proceso de Autoliquidacion;NOM4C
+NOM-NOM4-4;86012348;Proceso de Contabilizaciones;NOM4D
+NOM-NOM0-5;86012348;Consultas Generales;NOM5
+NOM-NOM5-8;86012348;Dotaciones;NOM5A
+NOM-NOM0-6;86012348;Reportes Generales;NOM6
+NOM-NOM6-10;86012348;Acumulados Pagos y Deducciones;NOM6A
+NOM-NOM6-11;86012348;Pago de Prestaciones;NOM6B
+NOM-NOM6-12;86012348;Para Toma de Decisiones;NOM6C
+NOM-NOM6-13;86012348;Incapacidades;NOM6D
+NOM-NOM6-14;86012348;Dotaciones;NOM6E
+NOM-NOM0-7;86012348;Liquidaciones Especiales;NOM7
+NOM-NOM0-8;86012348;Certificaciones;NOM8
+NOM-NOM4D-4;86012348;Provisiones y Causaciones;NOM9
+NOM-NOMA-4;86012348;Consultas;NOMAA
+NOM-NOMA-5;86012348;Reportes;NOMAB
+IFR-IFR2-4;86012348;Otros Informes;otrp
+CMN-COMR-1;86012348;Creacion de Pedidos;PED00
+CMN-COMR-3;86012348;Consultas;PED01
+CMN-COMR-4;86012348;Reportes;PED02
+CON-ACON0-3;86012348;Control Presupuestal;PRE
+IFR-US3-3;86012348;P y G;pygd
+IFR-IFR2-3;86012348;P Y G;PYGP
+ACT-ACT0-7;86012348;Reportes Revelaciones NIIF(IFR;REV
+CMN-COM4-2;86012348;Ordenes de Compra Servicios;SERV
+TES-INI-0;86012348;Tesoreria;TES0
+TES-TES0-1;86012348;Creaciones;TES1
+TES-TES0-2;86012348;Actualizaciones;TES2
+TES-TES2-2;86012348;Emision de Cheques;TES22
+TES-TES0-3;86012348;Consultas de Egresos;TES3
+TES-TES0-4;86012348;Consultas Recibos de Caja;TES4
+TES-TES0-5;86012348;Informes de Egresos;TES5
+TES-TES0-6;86012348;Informes de Recibos de Caja;TES6
+TES-TES0-7;86012348;Cheques Postfechados;TES7
+CON-ACON0-5;86012348;Informacion Tributaria;TRI1
+IFR-IFUS-1;86012348;Actualizaciones;US1
+IFR-IFUS-2;86012348;Consultas;US2
+IFR-IFUS-3;86012348;Reportes;US3
+ACT-ACT1-2;86012348;Maestro Contable;ZZZ
+ACT-ACT1-3;86012348;Maestro de Nits;ZZZ
+ACT-ACT1-4;86012348;Contabilizaciones;ZZZ
+ACT-ACT1-5;86012348;Polizas por Aseguradora;ZZZ
+ACT-ACT1-6;86012348;Activos y Mejoras;ZZZ
+ACT-ACT1-7;86012348;Creacion de Diferidos;ZZZ
+ACT-ACT11-1;86012348;Divisiones;ZZZ
+ACT-ACT11-2;86012348;Localidades o Ciudades;ZZZ
+ACT-ACT11-3;86012348;Centros de Costos;ZZZ
+ACT-ACT11-4;86012348;Bloques Contables;ZZZ
+ACT-ACT11-5;86012348;Comprobantes Contables;ZZZ
+ACT-ACT11-6;86012348;Tipos de Cuentas;ZZZ
+ACT-ACT11-7;86012348;Paises;ZZZ
+ACT-ACT11-8;86012348;Ubicaciones;ZZZ
+ACT-ACT11-9;86012348;Monedas;ZZZ
+ACT-ACT11-10;86012348;Tipos de Deterioro;ZZZ
+ACT-ACT2-1;86012348;En Tiempo Real;ZZZ
+ACT-ACT2-2;86012348;En Batch;ZZZ
+ACT-ACT2-3;86012348;Proceso Inicio de Mes;ZZZ
+ACT-ACT2-5;86012348;Contab.Depreciaciones;ZZZ
+ACT-ACT2-7;86012348;Cambio de Encargados;ZZZ
+ACT-ACT2-8;86012348;Venta o Baja de Activos;ZZZ
+ACT-ACT2-9;86012348;Contabilizacion de Amortizaciones;ZZZ
+ACT-ACT2-10;86012348;Contabilizacion Inicial;ZZZ
+ACT-ACT3-1;86012348;Activos y Mejoras Por Cuenta;ZZZ
+ACT-ACT3-2;86012348;Activos y Mejoras X Ubicacion;ZZZ
+ACT-ACT3-3;86012348;Activos y Mejoras X Encargado;ZZZ
+ACT-ACT3-4;86012348;Activos Amparados con Poliza;ZZZ
+ACT-ACT3-5;86012348;Libros Auxiliares;ZZZ
+ACT-ACT3-6;86012348;Activos Por Div-Loc-Cen;ZZZ
+ACT-ACT4-1;86012348;Saldos de Activos Por Cuenta;ZZZ
+ACT-ACT4-2;86012348;Saldos de Activos Por Ubicacion;ZZZ
+ACT-ACT4-3;86012348;Saldos Acumulados de Activos Por Cuenta;ZZZ
+ACT-ACT4-4;86012348;Comprobante Contable;ZZZ
+ACT-ACT4-5;86012348;Libros Auxiliares;ZZZ
+ACT-ACT4-6;86012348;Movimiento de Diferidos;ZZZ
+ACT-ACT4-7;86012348;Activos Depreciados;ZZZ
+ACT-ACT4-8;86012348;Libros Auxiliares Diferidos;ZZZ
+ACT-ACT4-9;86012348;Movimiento Diferido Por Tipo;ZZZ
+ACT-ACT4-10;86012348;Movimiento de Diferidos X Mes;ZZZ
+ACT-ACT4-11;86012348;Activos Por Estado;ZZZ
+ACT-ACT4-12;86012348;Movimiento de Diferidos x Año;ZZZ
+ACT-ACT5-1;86012348;Cartilla Maestro Contable;ZZZ
+ACT-ACT5-2;86012348;Maestro de Nits;ZZZ
+ACT-ACT5-3;86012348;Cartillas de Activos y Mejoras;ZZZ
+ACT-ACT5-4;86012348;Activos Amparados por la Poliza;ZZZ
+ACT-ACT5-5;86012348;Activos que no se deprecian;ZZZ
+ACT-ACT5-6;86012348;Maestro de Activos en Excel;ZZZ
+ACT-actn-1;86012348;Contabilizacion Inicial;ZZZ
+ACT-actn-2;86012348;Depreciacion Activos IFRS;ZZZ
+ACT-actn-3;86012348;Depreciacion Por Unidades;ZZZ
+ACT-actn-4;86012348;Revaluacion de Activos;ZZZ
+ACT-actn-5;86012348;VPN Devolucion/Desinstalacion;ZZZ
+ACT-actn-6;86012348;Generar Listado Para Deterioro;ZZZ
+ACT-actn-7;86012348;Importar Deterioro de Activos;ZZZ
+ACT-actn-8;86012348;Reactivacion de Activos;ZZZ
+ACT-actn-9;86012348;Paso A Mantenido Para La Venta;ZZZ
+ACT-actn-10;86012348;Reconocimiento M. Para Venta;ZZZ
+ACT-REV-1;86012348;Valor Neto Por Grupo de Activo;ZZZ
+ACT-REV-2;86012348;Clase de Activo Por Vida Util;ZZZ
+ACT-REV-3;86012348;Depreciación acumulada por cla;ZZZ
+ACT-REV-4;86012348;Actvivos Depreciados x Compone;ZZZ
+ACT-REV-5;86012348;Activos Totalmente Depreciados;ZZZ
+ACT-REV-6;86012348;Movimiento de Activos;ZZZ
+ACT-REV-7;86012348;Activos Revaluados;ZZZ
+ACT-REV-8;86012348;Superavit Por Revaluacion;ZZZ
+ACT-REV-9;86012348;Depreciacion en el Resultado;ZZZ
+ACT-REV-10;86012348;Valor Residual x Clase Activo;ZZZ
+ACT-REV-11;86012348;Perdidas Deterioro Por Clase;ZZZ
+CHA-ADM-1;86012348;Crear Usuarios;ZZZ
+CHA-ADM-2;86012348;Asignar Permisos;ZZZ
+CHA-ADM-3;86012348;Asignar Programas de Impresion;ZZZ
+CHA-ADM-4;86012348;Reporte Usuarios/ Programas;ZZZ
+CHA-ADM-5;86012348;Consultar y Borrar Conexiones;ZZZ
+CHA-ADM-6;86012348;Crear Sistema;ZZZ
+CHA-ADM-7;86012348;Datos para Correo;ZZZ
+CHA-ADM-8;86012348;Asignar Comprobantes a Usuario;ZZZ
+CHA-ADM-9;86012348;Programas Especiales Alertas;ZZZ
+CHA-ADM-10;86012348;Eliminar Permisos de Usuario;ZZZ
+CHA-ADM-12;86012348;Relacion de Programas;ZZZ
+CHA-ADM-13;86012348;Creacion Ayuda Campo;ZZZ
+CHA-ADM-14;86012348;Creacion Parametrizacion Programas Especiales Empresas;ZZZ
+CHA-AUD-1;86012348;Inventarios;ZZZ
+CHA-AUD-2;86012348;Cuentas por Cobrar;ZZZ
+CHA-AUD-3;86012348;Cuentas por Pagar;ZZZ
+CHA-AUD-4;86012348;Consulta Docs. con Descuadre;ZZZ
+CHA-AUD-5;86012348;Informe Docs. con Descuadre;ZZZ
+CHA-AUD-6;86012348;Auditoria Inventarios Vs Conta;ZZZ
+CHA-AUD-7;86012348;Consulta Inventarios vs Contab;ZZZ
+CHA-AUD-12;86012348;Cierres de Mes por Modulo;ZZZ
+CHA-AUD-13;86012348;Modificacion Docs.Contabilidad;ZZZ
+CHA-AUD-14;86012348;Modificacion Docs.Inventarios;ZZZ
+CHA-AUD-15;86012348;Modificacion de Proveedores;ZZZ
+CHA-AUD-16;86012348;Auditoria sobre Tablas;ZZZ
+CHA-CLAVE-1;86012348;Cambiar Clave;ZZZ
+CHA-CON-1;86012348;Balance Por Niveles;ZZZ
+CHA-CON-2;86012348;Saldos Por Cuenta;ZZZ
+CHA-CON-3;86012348;Pyg Por Niveles;ZZZ
+CHA-CON-4;86012348;Estado de Bancos En Pesos;ZZZ
+CHA-CON-6;86012348;Como Estamos HOY;ZZZ
+CHA-CON-7;86012348;Posibles Ingresos y Egresos;ZZZ
+CHA-CON-8;86012348;Analisis Presupuestal Pesos;ZZZ
+CHA-CON-10;86012348;Consulta Gastos Generales;ZZZ
+CHA-CON-11;86012348;Movto.Comprobante/Documwento;ZZZ
+CHA-CXC-1;86012348;Saldos de Clientes;ZZZ
+CHA-CXC-2;86012348;Analisis y Vencimientos;ZZZ
+CHA-FAC-1;86012348;Ventas por Cliente;ZZZ
+CHA-FAC-2;86012348;Indicadores Medicion de Ventas;ZZZ
+CHA-FAC-3;86012348;ABC Ventas por Cliente;ZZZ
+CHA-FAC-8;86012348;ABC Ventas por Cliente;ZZZ
+CHA-IF$-1;86012348;Balance en Pesos IFRS;ZZZ
+CHA-IF$-2;86012348;Balance Comparativo IFRS Pesos;ZZZ
+CHA-IF$-3;86012348;PyG Mes y ano IFRS Pesos;ZZZ
+CHA-IF$-4;86012348;PyG Columnado Mes IFRS Pesos;ZZZ
+CHA-IFUS-1;86012348;Balance en Dolares IFRS;ZZZ
+CHA-IFUS-2;86012348;Comparativo Ofic. IFRS US;ZZZ
+CHA-IFUS-3;86012348;PyG Mes y Ano IFRS Dolares;ZZZ
+CHA-IFUS-4;86012348;PyG Columnado Mes IFRS Dolares;ZZZ
+CHA-INFC-1;86012348;Balance General;ZZZ
+CHA-INFC-2;86012348;Balance Enfrentado;ZZZ
+CHA-INFC-3;86012348;Balance Comparativo;ZZZ
+CHA-INFC-7;86012348;PYG Mes;ZZZ
+CHA-INFC-8;86012348;PYG Columnado Mes;ZZZ
+CHA-INFC-9;86012348;PYG Comparativo;ZZZ
+CHA-INV-1;86012348;Consulta de Existencias;ZZZ
+CHA-INV-2;86012348;Actualizacion Minimos-Maximos;ZZZ
+CHA-INV-3;86012348;Inf.Productos Estado Critico;ZZZ
+CHA-INV-6;86012348;Informe Productos Inactivos;ZZZ
+CHA-PRD-2;86012348;Precios Ultimas Compras;ZZZ
+CHA-PRD-3;86012348;Cxp de O.Compra En Camino;ZZZ
+CHA-USU-1;86012348;Crear Usuarios;ZZZ
+CHA-USU-2;86012348;Crear Empresas;ZZZ
+CHA-USU-3;86012348;Asignar Modulos a Usuarios;ZZZ
+CHA-USU-4;86012348;Asignar Empresas a Usuarios;ZZZ
+CHA-USU-5;86012348;Asignar Programas a Usuarios;ZZZ
+CHA-USU-6;86012348;Crear Sistema;ZZZ
+CHA-USU-7;86012348;Datos para Correo;ZZZ
+CHA-USU-8;86012348;Asignar Comprobantes a Usuario;ZZZ
+CMN-BIEN-1;86012348;Creacion Ordenes de Compra;ZZZ
+CMN-BIEN-6;86012348;Entradas de Almacen;ZZZ
+CMN-BIEN-7;86012348;Anulacion Saldos Pendientes;ZZZ
+CMN-CO413-1;86012348;Ordenes en Pesos;ZZZ
+CMN-CO413-2;86012348;Ordenes de Compras de Importacion;ZZZ
+CMN-COM1-2;86012348;Cambiar Ubicacion;ZZZ
+CMN-COM1-8;86012348;Calendario Dias NO Habiles;ZZZ
+CMN-COM11-1;86012348;Monedas;ZZZ
+CMN-COM11-2;86012348;Gastos de Importacion;ZZZ
+CMN-COM11-3;86012348;Paises;ZZZ
+CMN-COM11-4;86012348;Departamentos del Pais;ZZZ
+CMN-COM11-5;86012348;Ciudades;ZZZ
+CMN-COM11-6;86012348;Condiciones de Pago;ZZZ
+CMN-COM11-7;86012348;Unidades de Empaque Proveedores;ZZZ
+CMN-COM11-8;86012348;Conceptos de Evaluacion Proveedores;ZZZ
+CMN-COM2-1;86012348;Creacion de Proveedor/Producto;ZZZ
+CMN-COM2-2;86012348;Consulta de Proveedor/Producto;ZZZ
+CMN-COM2-3;86012348;Informe de Proveedor/Producto;ZZZ
+CMN-COM2-5;86012348;Evaluacion de Proveedores;ZZZ
+CMN-COM3-1;86012348;Creacion Especificaciones de Compra;ZZZ
+CMN-COM3-2;86012348;Asignacion Especificaciones a Productos;ZZZ
+CMN-COM3-3;86012348;Impresion Especificaciones Por Producto;ZZZ
+CMN-COM3-4;86012348;Impresion Especificaciones Por Codigo;ZZZ
+CMN-COM3-5;86012348;Impresion Productos que aplican a Especi;ZZZ
+CMN-COM3-6;86012348;Consulta de Cotizaciones;ZZZ
+CMN-COM4-5;86012348;Salidas Dev.a Proveedores;ZZZ
+CMN-COM4-6;86012348;Liquidacion de Importaciones;ZZZ
+CMN-COM4-7;86012348;Cambiar indicativo;ZZZ
+CMN-COM46-2;86012348;Ordenes no Cerradas;ZZZ
+CMN-COM46-3;86012348;Ordenes de Compra;ZZZ
+CMN-COM46-4;86012348;Entradas de Almacen;ZZZ
+CMN-COM46-5;86012348;Mercancia En Camino Por Producto;ZZZ
+CMN-COM46-6;86012348;Mercancia En Camino Por Proveedor;ZZZ
+CMN-COM46-8;86012348;O.Compra Vs E.Almacen y Facturas;ZZZ
+CMN-COM46-11;86012348;O.C.Con Pendientes Anulados;ZZZ
+CMN-COM46-12;86012348;O.C. De Servicios Modificadas;ZZZ
+CMN-COM47-1;86012348;Mercancia En Camino Por Producto;ZZZ
+CMN-COM47-2;86012348;Mercancia En Camino Por Proveedor;ZZZ
+CMN-COM47-6;86012348;Consecutivo O.C. en Excel;ZZZ
+CMN-COM47-7;86012348;Ordenes C Servicios Vs. Actas;ZZZ
+CMN-COM47-11;86012348;O.C.S.Con Pendientes Anulados;ZZZ
+CMN-COM47-12;86012348;O.C. no cerradas;ZZZ
+CMN-COM47-14;86012348;O.C. y Facturas asociadas;ZZZ
+CMN-COM47-15;86012348;O.C. Vs. Entradas de Almacen;ZZZ
+CMN-COM47-16;86012348;Entradas Almacen sin Factura;ZZZ
+CMN-COM47-17;86012348;O.C. Con Saldos Pendientes;ZZZ
+CMN-COM47-18;86012348;O.C. Vs Actas - Entradas;ZZZ
+CMN-COM47-20;86012348;O.C. con Relacion de Servicios;ZZZ
+CMN-COM47-22;86012348;Ordenes De Compra Para Activos;ZZZ
+CMN-COM47-23;86012348;O.C Vs Actas-Entrada-Facturas;ZZZ
+CMN-COM47-26;86012348;Prov. sin compras hace N dias;ZZZ
+CMN-COM47-27;86012348;Ordenes de Compra y su Estado;ZZZ
+CMN-COM5-1;86012348;Precio de Ultimas Compras;ZZZ
+CMN-COM5-2;86012348;Abc de Compras Por Proveedor En Pesos;ZZZ
+CMN-COM5-3;86012348;Abc de Compras Por Proveedor En Cantidad;ZZZ
+CMN-COM5-4;86012348;Pedidos Sugeridos S/Consumos;ZZZ
+CMN-COM8-1;86012348;Informe por Areas;ZZZ
+CMN-COMR-2;86012348;Autorizacion de Pedidos Obra;ZZZ
+CMN-COMR-5;86012348;Arreglar;ZZZ
+CMN-COMR-6;86012348;Copiar Archivos PDF;ZZZ
+CMN-COMR-7;86012348;Cambiar Estado > 45 Dias;ZZZ
+CMN-DIS-1;86012348;Creacion Areas de Cultivo;ZZZ
+CMN-PED00-1;86012348;De Bienes;ZZZ
+CMN-PED00-2;86012348;De Servicios;ZZZ
+CMN-PED01-1;86012348;Pendientes de Autorizacion;ZZZ
+CMN-PED01-2;86012348;Pedidos en General;ZZZ
+CMN-PED01-3;86012348;Pedidos Vs. Ordenes de Compra;ZZZ
+CMN-PED01-4;86012348;Maestro de Inventarios;ZZZ
+CMN-PED01-5;86012348;Pedidos sin O.C. en N dias;ZZZ
+CMN-PED01-6;86012348;Consulta de Pedidos Anulados;ZZZ
+CMN-PED01-7;86012348;Consulta Proveedor-Producto;ZZZ
+CMN-PED02-1;86012348;Impresion de Pedidos;ZZZ
+CMN-PED02-2;86012348;Sin Autorizar;ZZZ
+CMN-PED02-3;86012348;Autorizados sin O.C.;ZZZ
+CMN-PED02-4;86012348;Autorizados con O.C.;ZZZ
+CMN-PED02-5;86012348;Maestro de Inventarios;ZZZ
+CMN-PED02-6;86012348;Autorizados Sin OC General;ZZZ
+CMN-PED02-7;86012348;Relacion Total de Pedidos;ZZZ
+CMN-PED02-8;86012348;Sin Autorizar General;ZZZ
+CMN-PED02-9;86012348;Con Orden de Compra General;ZZZ
+CMN-PED02-10;86012348;Pedidos por Div-Loc-C.C.;ZZZ
+CMN-PED02-11;86012348;Movimiento de Pedidos;ZZZ
+CMN-PED02-12;86012348;Historial Desde la Factura;ZZZ
+CMN-PED02-13;86012348;Historial desde la Factura II;ZZZ
+CMN-SERV-1;86012348;Creacion O.C.;ZZZ
+CMN-SERV-2;86012348;Impresion Borrador O.C.S.;ZZZ
+CMN-SERV-4;86012348;Creacion Actas de Entrega;ZZZ
+CMN-SERV-5;86012348;Anulacion Saldos Pendientes;ZZZ
+CMN-SERV-6;86012348;Devolucion Actas de Entrega;ZZZ
+CMN-SERV-8;86012348;OC Servicios Diversa;ZZZ
+CON-AJU-1;86012348;Creacion Maestro de Ajuste;ZZZ
+CON-AJU-2;86012348;Consulta Maestro de Ajustes;ZZZ
+CON-AJU-3;86012348;Cartilla Maestro de Ajustes;ZZZ
+CON-AJU-4;86012348;Prelistado de Ajustes;ZZZ
+CON-AJU-5;86012348;Contabilizacion Ajustes;ZZZ
+CON-CIE-1;86012348;Cierre Periodo Fiscal;ZZZ
+CON-CIE-2;86012348;Cierre Periodo Fiscal Int.;ZZZ
+CON-CO411-1;86012348;Balance en Dolares;ZZZ
+CON-CO411-2;86012348;Balance Dolares Saldo Actual;ZZZ
+CON-CO411-3;86012348;Balance Comparativo;ZZZ
+CON-CO411-4;86012348;Movimientos Acumulados;ZZZ
+CON-CO416-1;86012348;PyG Mes y A/o;ZZZ
+CON-CO416-2;86012348;Columnado Por Mes;ZZZ
+CON-CON1-1;86012348;Maestro Contable;ZZZ
+CON-CON1-4;86012348;Maestro de Nit's;ZZZ
+CON-CON1-5;86012348;Mantenimiento de Chequeras;ZZZ
+CON-CON1-6;86012348;Contabilizaciones Automaticas;ZZZ
+CON-CON1-8;86012348;Cuentas A Replicar;ZZZ
+CON-CON1-9;86012348;Cuentas Para Diferencia Cambio;ZZZ
+CON-CON1-10;86012348;Porcentajes Mensuales;ZZZ
+CON-CON11-1;86012348;Divisiones;ZZZ
+CON-CON11-2;86012348;Localidades o Ciudades;ZZZ
+CON-CON11-3;86012348;Centros de Costos;ZZZ
+CON-CON11-4;86012348;Bloques Contables;ZZZ
+CON-CON11-5;86012348;Comprobantes Contables;ZZZ
+CON-CON11-6;86012348;Tipos de Cuentas;ZZZ
+CON-CON11-7;86012348;Operaciones Bancarias;ZZZ
+CON-CON11-8;86012348;Tipos de Gastos Pedidos;ZZZ
+CON-CON11-9;86012348;Administraciones de Impuestos;ZZZ
+CON-CON11-11;86012348;Paises;ZZZ
+CON-CON11-12;86012348;Departamentos del Pais;ZZZ
+CON-CON11-13;86012348;Ciudades del Pais;ZZZ
+CON-CON11-14;86012348;Actividades Economicas;ZZZ
+CON-CON11-15;86012348;Creacion Calendario;ZZZ
+CON-CON11-16;86012348;Tasa De Cambio;ZZZ
+CON-CON11-17;86012348;Documentos Auxiliares;ZZZ
+CON-CON11-18;86012348;Codigos Internos;ZZZ
+CON-CON2-1;86012348;En Tiempo Real;ZZZ
+CON-CON2-2;86012348;En Batch;ZZZ
+CON-CON2-3;86012348;Proceso Inicio de Mes;ZZZ
+CON-CON2-4;86012348;Cierre de Mes;ZZZ
+CON-CON2-6;86012348;Importar Gastos Legalizacion;ZZZ
+CON-CON2-7;86012348;Copiar Documentos Contables;ZZZ
+CON-CON2-10;86012348;Anular Documentos;ZZZ
+CON-CON2-11;86012348;Borrar Documentos;ZZZ
+CON-CON2-12;86012348;Generar Diferencia en Cambio;ZZZ
+CON-CON3-1;86012348;Documentos Contables;ZZZ
+CON-CON3-2;86012348;Libros Auxiliares;ZZZ
+CON-CON3-3;86012348;Saldos de Cuentas;ZZZ
+CON-CON3-4;86012348;Saldos Por Niveles;ZZZ
+CON-CON3-5;86012348;Documentos en el Mes;ZZZ
+CON-CON3-6;86012348;Maestro Contable;ZZZ
+CON-CON3-7;86012348;Saldos por Auxiliares;ZZZ
+CON-CON3-8;86012348;Novedades Por Nit;ZZZ
+CON-CON3-9;86012348;Maestro de NITS;ZZZ
+CON-CON4-1;86012348;Documentos Contables;ZZZ
+CON-CON4-2;86012348;Comprobantes Contables;ZZZ
+CON-CON4-4;86012348;Libro Mayor y Balances;ZZZ
+CON-CON4-6;86012348;Diario Oficial Registrado;ZZZ
+CON-CON4-12;86012348;Informes de Novedades;ZZZ
+CON-CON4-13;86012348;Libro de Inventarios y Balances;ZZZ
+CON-CON4-15;86012348;Movimiento Ordenes de Servicio;ZZZ
+CON-CON4-17;86012348;Novedades por Rango de Fechas;ZZZ
+CON-CON4-18;86012348;Auxiliares por NIT y DLC;ZZZ
+CON-CON43-1;86012348;En Pesos;ZZZ
+CON-CON43-2;86012348;En otra moneda;ZZZ
+CON-CON43-3;86012348;En Pesos Solo Saldo Actual;ZZZ
+CON-CON43-5;86012348;En Pesos Fecha Corte;ZZZ
+CON-CON43-6;86012348;Balance Por Niveles;ZZZ
+CON-CON43-8;86012348;En Pesos Comparativo;ZZZ
+CON-CON43-9;86012348;En Pesos Con Movimientos Acumulados;ZZZ
+CON-CON43-10;86012348;En Pesos Documento Auxiliar;ZZZ
+CON-CON45-1;86012348;Del Mes En Pesos;ZZZ
+CON-CON45-2;86012348;Consolidados En Pesos;ZZZ
+CON-CON45-3;86012348;Del Mes En Otras Monedas;ZZZ
+CON-CON45-4;86012348;Consolidados En Otras Monedas;ZZZ
+CON-CON47-1;86012348;Pyg Mes y Año;ZZZ
+CON-CON47-2;86012348;Pyg Columnado Por Mes;ZZZ
+CON-CON47-3;86012348;Pyg Comparativo;ZZZ
+CON-CON47-7;86012348;Pyg Columnado Acumulados;ZZZ
+CON-CON47-9;86012348;A Fecha de Corte;ZZZ
+CON-CON47-10;86012348;Pyg Por Centro y Metros Cultivados;ZZZ
+CON-CON48-1;86012348;Balance General;ZZZ
+CON-CON48-2;86012348;Balance Enfrentado Activo y Pasivo;ZZZ
+CON-CON48-3;86012348;Balance Comparativo;ZZZ
+CON-CON48-4;86012348;Balance Saldos y Movimiento;ZZZ
+CON-CON48-5;86012348;Balance Columnados del Año;ZZZ
+CON-CON48-6;86012348;Balance Columnado Por Mes;ZZZ
+CON-CON48-10;86012348;Fecha Corte;ZZZ
+CON-CON48-11;86012348;Saldos y Movimiento Fecha Cort;ZZZ
+CON-CON5-1;86012348;Distribucion Costos;ZZZ
+CON-CON5-2;86012348;Informe Por Centros de Costos;ZZZ
+CON-CON5-3;86012348;Numeracion de Paginas;ZZZ
+CON-CON5-6;86012348;Documentos en el Mes;ZZZ
+CON-CON5-7;86012348;Consecutivo Docs. por Mes;ZZZ
+CON-CON5-12;86012348;Contabilizaciones Automaticas;ZZZ
+CON-CON5-13;86012348;Informe de Movimientos de Ajuste;ZZZ
+CON-CON6-1;86012348;Maestro Contable;ZZZ
+CON-CON6-2;86012348;Maestro de Nit's;ZZZ
+CON-CON6-6;86012348;Informe de Programas;ZZZ
+CON-CON7-3;86012348;Consecutivo de Documentos;ZZZ
+CON-dec-1;86012348;Creacion de Formularios;ZZZ
+CON-dec-2;86012348;Codificar Declaraciones;ZZZ
+CON-dec-3;86012348;Generar Declaraciones;ZZZ
+CON-dec-4;86012348;Copiar Declaraciones Por Año;ZZZ
+CON-FIS-1;86012348;ANEXOS DE RENTA;ZZZ
+CON-FIS-2;86012348;Consulta Por Cuenta;ZZZ
+CON-FIS-3;86012348;Consulta Por Nit;ZZZ
+CON-FIS-4;86012348;Consulta de Gravados y Exentos;ZZZ
+CON-FIS-5;86012348;Informe Por Cuenta;ZZZ
+CON-FIS-6;86012348;Informe Por Nit;ZZZ
+CON-FIS-7;86012348;Informe de Gravados y Exentos;ZZZ
+CON-FIS-8;86012348;Creacion Formatos de Certi.;ZZZ
+CON-FIS-9;86012348;Certificados de Retencion;ZZZ
+CON-FIS-10;86012348;Generar Certificados Retencion;ZZZ
+CON-FIS-11;86012348;Edicion Documento Equivalente a Factura;ZZZ
+CON-FIS-12;86012348;Documento Compras Persona Natural;ZZZ
+CON-GAS-1;86012348;Actualizacion de Gastos;ZZZ
+CON-GAS-2;86012348;Consulta Gastos Vendedor;ZZZ
+CON-GAS-3;86012348;Consulta Gastos Vendedor x Cta;ZZZ
+CON-GAS-4;86012348;Consulta Gastos Cliente x Nit;ZZZ
+CON-GAS-5;86012348;Consulta Gastos Cliente x Cta;ZZZ
+CON-GAS-6;86012348;Informe Gastos Vendedor x Nit;ZZZ
+CON-GAS-7;86012348;Informe Gastos Vendedor x Cta;ZZZ
+CON-GAS-8;86012348;Informe Gastos Cliente x Nit;ZZZ
+CON-GAS-89;86012348;Informe Gastos Cliete x Cta;ZZZ
+CON-IFR1-1;86012348;Captura de Notas IFRS;ZZZ
+CON-IFR1-2;86012348;Cambio de Tasa;ZZZ
+CON-IFR2-1;86012348;Libros auxiliares del Mes;ZZZ
+CON-IFR2-2;86012348;Libros Auxiliares Consolidados;ZZZ
+CON-IFR2-3;86012348;Balance a Nivel de Auxiliares;ZZZ
+CON-IFR2-4;86012348;Balance en Dolares IFRS;ZZZ
+CON-IFR2-5;86012348;Balance en Pesos Saldo Actual;ZZZ
+CON-IFR2-6;86012348;Balnace Comparativo $ e IFRS$;ZZZ
+CON-PRE-1;86012348;Creaciones Conceptos de Presupuesto;ZZZ
+CON-PRE-2;86012348;Creacion de Presupuestos;ZZZ
+CON-PRE-3;86012348;Codificacion Ctas de Presupuesto;ZZZ
+CON-PRE-4;86012348;Cartilla Cuentas Por Concepto;ZZZ
+CON-PRE-6;86012348;Presupuesto General en Pesos;ZZZ
+CON-PRE-7;86012348;Presupuesto Por C.Costos En Pesos;ZZZ
+CON-PRE-8;86012348;Presupuesto General En Dolares;ZZZ
+CON-PRE-9;86012348;Presupuesto Por C.Costos en Dolares;ZZZ
+CON-PRE-10;86012348;Cuentas no tomadas en Presupuesto;ZZZ
+CON-PRE-11;86012348;Cartilla de Cuentas;ZZZ
+CON-PRE-12;86012348;Importar Presupuesto;ZZZ
+CON-PRE-13;86012348;Actualiza Movimientos;ZZZ
+CON-PRE-14;86012348;Imprime Balance Presupuesto;ZZZ
+CON-PRE-15;86012348;Imprimir PyG Presupuesto;ZZZ
+CON-PRE-16;86012348;Imprime Balance Presupuesto Co;ZZZ
+CON-PRE-17;86012348;Imprime PyG Columnado Presupue;ZZZ
+CON-PRE-18;86012348;Cartilla de Presupuesto por Centro;ZZZ
+CON-PRE1-1;86012348;Inicio de Mes;ZZZ
+CON-PRE1-2;86012348;Captura de Presupuestos;ZZZ
+CON-PRE1-3;86012348;Consulta de Presupuestos;ZZZ
+CON-PRE1-4;86012348;Informe Presupuesto Mensual;ZZZ
+CON-PRE1-5;86012348;Informe Presupuesto 12 Meses;ZZZ
+CON-PRE2-1;86012348;Creaciones Conceptos de Presupuesto;ZZZ
+CON-PRE2-2;86012348;Codificacion Ctas de Presupuesto;ZZZ
+CON-PRE2-3;86012348;Creacion de Presupuestos;ZZZ
+CON-PRE2-4;86012348;Cartilla Cuentas Por Concepto;ZZZ
+CON-PRE2-5;86012348;Cartilla Valores Presupuestados;ZZZ
+CON-PRE2-6;86012348;Presupuesto Mensual;ZZZ
+CON-PRE2-7;86012348;Presupuesto Anual Columnado;ZZZ
+CON-TRI1-1;86012348;Conceptos Tributarios;ZZZ
+CON-TRI1-2;86012348;Formatos Tributarios;ZZZ
+CON-TRI1-3;86012348;Codificacion de Formatos;ZZZ
+CON-TRI1-4;86012348;Generar Maestro Tributario;ZZZ
+CON-TRI1-5;86012348;Creacion Maestro Tributario;ZZZ
+CON-TRI1-6;86012348;Informe;ZZZ
+CON-TRI1-7;86012348;Asignar Concepto a Novedades;ZZZ
+CXC-CXC1-2;86012348;Vendedores;ZZZ
+CXC-CXC1-4;86012348;Maestro de Clientes;ZZZ
+CXC-CXC1-5;86012348;Comprobantes Contables;ZZZ
+CXC-CXC1-6;86012348;Contabilizaciones Automaticas;ZZZ
+CXC-CXC1-7;86012348;Calendario;ZZZ
+CXC-CXC11-1;86012348;Zonas;ZZZ
+CXC-CXC11-2;86012348;Subzonas;ZZZ
+CXC-CXC11-3;86012348;Tipos de Clientes;ZZZ
+CXC-CXC11-4;86012348;Tipos de Documentos;ZZZ
+CXC-CXC11-5;86012348;Actividades Economicas;ZZZ
+CXC-CXC11-6;86012348;Bancos;ZZZ
+CXC-CXC11-8;86012348;Condiciones de Pago;ZZZ
+CXC-CXC11-9;86012348;Tipos de Operaciones;ZZZ
+CXC-CXC11-10;86012348;Monedas;ZZZ
+CXC-CXC2-1;86012348;Contabilizacion de Documentos;ZZZ
+CXC-CXC2-2;86012348;Actu. en Batch de Documentos;ZZZ
+CXC-CXC2-3;86012348;Auditoria Maestro Vs Movimient;ZZZ
+CXC-CXC2-4;86012348;Auditoria Saldos Vs Documentos;ZZZ
+CXC-CXC2-5;86012348;Contabilizacion diferencia en cambio;ZZZ
+CXC-CXC3-1;86012348;Maestro de Clientes;ZZZ
+CXC-CXC3-2;86012348;Saldos de Clientes;ZZZ
+CXC-CXC3-3;86012348;Analisis y Vencimientos;ZZZ
+CXC-CXC3-4;86012348;Libros Auxiliares;ZZZ
+CXC-CXC3-5;86012348;Facturas y Notas;ZZZ
+CXC-CXC3-6;86012348;Consecutivo de Documentos;ZZZ
+CXC-CXC3-7;86012348;Vencimientos N dias;ZZZ
+CXC-CXC4-1;86012348;Saldos de Clientes Por Cuenta;ZZZ
+CXC-CXC4-2;86012348;Saldos de Clientes Por Nit;ZZZ
+CXC-CXC4-4;86012348;Saldos de Documentos a la Fecha;ZZZ
+CXC-CXC4-6;86012348;Libros Auxiliares de un Mes;ZZZ
+CXC-CXC4-7;86012348;Libros Auxiliares Consolidados;ZZZ
+CXC-CXC4-8;86012348;Vencimientos N Dias;ZZZ
+CXC-CXC4-9;86012348;Estados de Cuentas;ZZZ
+CXC-CXC44-1;86012348;Analisis Por Cuenta;ZZZ
+CXC-CXC44-2;86012348;Analisis Por Nit;ZZZ
+CXC-CXC44-3;86012348;Analisis Por Vendedor;ZZZ
+CXC-CXC5-1;86012348;Cartilla de Clientes por Nombr;ZZZ
+CXC-CXC5-2;86012348;Cartilla Clientes Por Cuenta;ZZZ
+CXC-CXC5-3;86012348;Clientes Bloqueados;ZZZ
+CXC-CXC6-1;86012348;Saldos de Clientes;ZZZ
+CXC-CXC6-2;86012348;Analisis y Vencimientos;ZZZ
+CXC-CXC6-3;86012348;Saldos de Documentos;ZZZ
+CXC-CXC6-4;86012348;Libros Auxiliares de un Mes;ZZZ
+CXC-CXC6-5;86012348;Libros Auxiliares Consolidados;ZZZ
+CXC-CXC6-7;86012348;Comisiones Por Ventas US;ZZZ
+CXC-CXC6-8;86012348;Extractos por Cliente;ZZZ
+CXC-CXC6-9;86012348;Estado de Cuentas;ZZZ
+CXC-CXC7-1;86012348;Analisis y Vencimientos;ZZZ
+CXP-CXP1-2;86012348;Creacion Maestro de Cxp;ZZZ
+CXP-CXP1-3;86012348;Contabilizaciones Automaticas;ZZZ
+CXP-CXP11-1;86012348;Comprobantes Contables;ZZZ
+CXP-CXP11-2;86012348;Actividades Economicas;ZZZ
+CXP-CXP11-3;86012348;Condiciones de Pago;ZZZ
+CXP-CXP11-4;86012348;Codigos Bancos Nacionales;ZZZ
+CXP-CXP11-5;86012348;Tipos de Operaciones;ZZZ
+CXP-CXP11-6;86012348;Tipos Parametros Proveedor;ZZZ
+CXP-CXP2-1;86012348;Causacion de Facturas;ZZZ
+CXP-CXP2-2;86012348;Autorizacion de Pagos;ZZZ
+CXP-CXP2-3;86012348;Actua.en Batch de Documentos;ZZZ
+CXP-CXP2-4;86012348;Auditoria Saldos vs Documentos;ZZZ
+CXP-CXP2-5;86012348;Contabilizacion Diferencia en Cambio;ZZZ
+CXP-CXP2-9;86012348;Anular documentos;ZZZ
+CXP-CXP2-10;86012348;Borrar Documentos;ZZZ
+CXP-CXP3-1;86012348;Cartilla Maestro de Cxp;ZZZ
+CXP-CXP3-2;86012348;Reporte de Saldos Por Cuenta;ZZZ
+CXP-CXP3-3;86012348;Reporte de Saldos Por Nit;ZZZ
+CXP-CXP3-4;86012348;Reporte Saldos de Documentos;ZZZ
+CXP-CXP3-5;86012348;Reporte Analisis Por Nit;ZZZ
+CXP-CXP3-6;86012348;Reporte Analisis Por Cuenta;ZZZ
+CXP-CXP3-7;86012348;Libros Auxiliares;ZZZ
+CXP-CXP3-8;86012348;Libros Auxiliares Consolidados;ZZZ
+CXP-CXP3-9;86012348;Documentos Por Vencer N Dias;ZZZ
+CXP-CXP3-10;86012348;Documentos Vencidos N Dias;ZZZ
+CXP-CXP3-11;86012348;Docum. Autorizados Para Pago;ZZZ
+CXP-CXP4-2;86012348;Libros Auxiliares;ZZZ
+CXP-CXP4-3;86012348;Analisis y Vencimientos;ZZZ
+CXP-CXP4-4;86012348;Doc.Vencidos Por Vencer N Dias;ZZZ
+CXP-CXP4-5;86012348;Facturas Por Proveedor;ZZZ
+FAN-FA211-1;86012348;Consulta de Pedidos;ZZZ
+FAN-FA211-2;86012348;Informe de Pedidos;ZZZ
+FAN-FAC1-1;86012348;Productos;ZZZ
+FAN-FAC1-2;86012348;Transportadores;ZZZ
+FAN-FAC1-3;86012348;Metros Cultivados;ZZZ
+FAN-FAC1-4;86012348;Metros Cultivados por centro;ZZZ
+FAN-FAC1-5;86012348;Productos Para Distribuir;ZZZ
+FAN-FAC1-6;86012348;Creacion de Agencias;ZZZ
+FAN-FAC1-7;86012348;Creacion de Aerolineas;ZZZ
+FAN-FAC1-8;86012348;Creacion Tipos de Ventas;ZZZ
+FAN-FAC1-9;86012348;Numeros de Global;ZZZ
+FAN-FAC1-10;86012348;Unidades Por Ramo;ZZZ
+FAN-FAC1-11;86012348;Existencias Por Ramo;ZZZ
+FAN-FAC1-12;86012348;Inventario Fisico Diario;ZZZ
+FAN-FAC1-13;86012348;Proyeccion Semanal Por Grupo;ZZZ
+FAN-FAC1-14;86012348;Proyeccion Semanal Por Subgrupo;ZZZ
+FAN-FAC1-15;86012348;Creación de Paises;ZZZ
+FAN-FAC1-16;86012348;Creación de Ciudades;ZZZ
+FAN-FAC2-1;86012348;Ordenes Fijas de Pedidos;ZZZ
+FAN-FAC2-2;86012348;Pedidos;ZZZ
+FAN-FAC2-3;86012348;Facturacion;ZZZ
+FAN-FAC2-4;86012348;NC Devolucion de Mercancias;ZZZ
+FAN-FAC2-5;86012348;Asignacion Numero de Global;ZZZ
+FAN-FAC2-6;86012348;Imprimir Facturas De Flor Nacional;ZZZ
+FAN-FAC2-8;86012348;Produccion y Bajas de Flor;ZZZ
+FAN-FAC2-10;86012348;Despachos Viejos;ZZZ
+FAN-FAC2-11;86012348;Depurar Pedidos;ZZZ
+FAN-FAC2-12;86012348;Cargue con pistola;ZZZ
+FAN-FAC2-13;86012348;Captura Produccion por Registro;ZZZ
+FAN-FAC2-14;86012348;Captura Despachos por Registro;ZZZ
+FAN-FAC2-15;86012348;Discriminacion de Despachos;ZZZ
+FAN-FAC2-16;86012348;Generar Novedad De Ajuste Inv. Fisico;ZZZ
+FAN-FAC2-17;86012348;Produccion Por Registro-Especial;ZZZ
+FAN-FAC3-1;86012348;Facturas y Notas;ZZZ
+FAN-FAC3-2;86012348;Consecutivo Factura y Notas;ZZZ
+FAN-FAC3-5;86012348;Facturas Por Clientes;ZZZ
+FAN-FAC3-6;86012348;Facturas Por Vendedor;ZZZ
+FAN-FAC3-10;86012348;Tarjeta de Ventas Por Cliente;ZZZ
+FAN-FAC3-11;86012348;Consulta de Pedidos;ZZZ
+FAN-FAC4-1;86012348;Consecutivo Facturas;ZZZ
+FAN-FAC4-3;86012348;Planillas de Cargue KLM;ZZZ
+FAN-FAC4-4;86012348;Autorizacion Fitosanitaria;ZZZ
+FAN-FAC4-5;86012348;Facturas Formato Word;ZZZ
+FAN-FAC4-6;86012348;Autorizacion Fito Pedidos;ZZZ
+FAN-FAC4-7;86012348;Comprobante de Diario;ZZZ
+FAN-FAC4-8;86012348;Impresion Factura Canada;ZZZ
+FAN-FAC4-9;86012348;Facturas Europa texto;ZZZ
+FAN-FAC4-10;86012348;Facturas Europa Word;ZZZ
+FAN-FAC4-11;86012348;Edicion de Certificados al Proveedor;ZZZ
+FAN-FAC4-12;86012348;Consecutivo de Facturas Devolucion IVA;ZZZ
+FAN-FAC4-13;86012348;Facturas en Espanol;ZZZ
+FAN-FAC4-14;86012348;Informe BNA;ZZZ
+FAN-FAC4-15;86012348;Facturas Europa Español;ZZZ
+FAN-FAC5-1;86012348;Informes de Rentabilidad;ZZZ
+FAN-FAC5-2;86012348;Ventas Por Producto;ZZZ
+FAN-FAC5-3;86012348;Ventas Por Cliente;ZZZ
+FAN-FAC5-4;86012348;Ventas Por Vendedor;ZZZ
+FAN-FAC5-5;86012348;Abc de Ventas;ZZZ
+FAN-FAC6-1;86012348;Venta de Producto,Lineas Grupos y Subgru;ZZZ
+FAN-FAC6-2;86012348;Ventas Por Clientes;ZZZ
+FAN-FAC6-3;86012348;Ventas Por Vendedores;ZZZ
+FAN-FAC7-1;86012348;Planilla de Carge;ZZZ
+FAN-FAC7-2;86012348;Extractos y Estados de Cuenta;ZZZ
+FAN-FAC7-3;86012348;Cierre de Documentos;ZZZ
+FAN-FAC7-4;86012348;Ventas del A/o Por Cliente;ZZZ
+FAN-FAC7-5;86012348;Ventas del A/o Por Producto;ZZZ
+FAN-FAC7-6;86012348;Ventas del A/o Por Producto Zona;ZZZ
+FAN-FAC7-7;86012348;Ventas Del Ano Por Zona/Linea;ZZZ
+FAN-FAC7-8;86012348;Ventas del ano por Producto(Retorno);ZZZ
+FAN-FAC7-9;86012348;Ventas del Año Retornos por Linea-Subgru;ZZZ
+FAN-FAC7-10;86012348;Informe de Pedidos;ZZZ
+FAN-FAC7-11;86012348;Ventas del A/o Por Tipo de Venta;ZZZ
+FAN-FAC7-12;86012348;Ventas Por Fecha-Zona-Linea (Retorno);ZZZ
+FAN-FAC7-13;86012348;Planillas Por Pedido;ZZZ
+FAN-FAC8-1;86012348;Orden Fija Semanal Por Cliente;ZZZ
+FAN-FAC8-2;86012348;Diferencia de Pedido Vs Orden Fija;ZZZ
+FAN-FAC8-3;86012348;Total Orden Fija Por Semana;ZZZ
+FAN-FAC8-4;86012348;Pedidos Por Rango de Fechas;ZZZ
+FAN-FAC8-5;86012348;Pedidos Discriminados Por Of y Adicional;ZZZ
+FAN-FAC8-6;86012348;Consecutivo de Pedidos;ZZZ
+FAN-FAC8-7;86012348;Diferencias Factura vs Despach;ZZZ
+FAN-FAC8-8;86012348;Diferencias Pedido vs Despacho;ZZZ
+FAN-FAC8-9;86012348;Diferencias Pedido vs Factura;ZZZ
+FAN-FAC8-10;86012348;Pedidos por Rangos de Fecha;ZZZ
+FAN-FAC8-11;86012348;Pedidos a Excel;ZZZ
+FAN-FAC9-1;86012348;Informe de Existencias;ZZZ
+FAN-FAC9-2;86012348;Existencias - Preparado;ZZZ
+FAN-FAC9-3;86012348;Disponible de Existencias;ZZZ
+FAN-FAC9-4;86012348;Proyeccion de Produccion Por Grados;ZZZ
+FAN-FAC9-5;86012348;Disponible De Proyeccion;ZZZ
+FAN-FAC9-6;86012348;Existencias -Preparado (Grupos);ZZZ
+FAN-FAC9-7;86012348;Disponible de Existencias Diario;ZZZ
+FAN-FAC9-8;86012348;Existencia por Variedad;ZZZ
+FAN-FACBA-1;86012348;Borrar Ordenes Fijas;ZZZ
+FAN-FACBA-2;86012348;Anular Pedidos;ZZZ
+FAN-FACBA-3;86012348;Anular Facturas;ZZZ
+FAN-FACBA-4;86012348;Borrar NC Devolucion de Mercancia;ZZZ
+FAN-FACP1-1;86012348;Captura Facturas Proforma;ZZZ
+FAN-FACP1-2;86012348;Generar Factura Real de Profor;ZZZ
+FAN-FACP2-1;86012348;Facturas Proforma;ZZZ
+FAN-FACP2-2;86012348;Consecutivo Facturas Proforma;ZZZ
+FAN-FACP2-3;86012348;Facturas Proforma Por Cliente;ZZZ
+FAN-FACP3-1;86012348;Edicion Facturas Proforma;ZZZ
+FAN-FACP3-2;86012348;Planillas Factura Proforma;ZZZ
+FAN-FACP3-3;86012348;Factura Proforma en Word;ZZZ
+FAN-FACP3-4;86012348;Analisis CXC Por Nit;ZZZ
+FAN-FACP3-5;86012348;Planillas Proforma KLM;ZZZ
+FAN-FACP3-6;86012348;Fitos Factura Proforma;ZZZ
+IFR-ACTIF-1;86012348;Creacion de Activos;ZZZ
+IFR-ACTIF-2;86012348;Actualizacion en Batch de Acti;ZZZ
+IFR-ACTIF-3;86012348;Depreciacion Activos IFRS;ZZZ
+IFR-ACTIF-4;86012348;Saldos de Activos IFRS;ZZZ
+IFR-ACTIF-5;86012348;Libros Auxiliares de Activos;ZZZ
+IFR-auxd-1;86012348;Libros Auxiliares del Mes US;ZZZ
+IFR-auxd-2;86012348;Libros Auxiliares Consolidados;ZZZ
+IFR-auxp-1;86012348;Libros Auxiliares del Mes;ZZZ
+IFR-auxp-2;86012348;Libros Auxiliares Consolidados;ZZZ
+IFR-auxp-3;86012348;Libros Auxiliares Especial;ZZZ
+IFR-bald-1;86012348;Balance Dolares IFRS Saldos;ZZZ
+IFR-bald-2;86012348;Balance IFRS con movimiento;ZZZ
+IFR-bald-3;86012348;Comparativo Oficial IFRS US$;ZZZ
+IFR-bald-4;86012348;Balance Saldos y Movimientos;ZZZ
+IFR-bald-5;86012348;Balance Cuentas Alternas;ZZZ
+IFR-bald-6;86012348;Balance Cuentas Alternas Gener;ZZZ
+IFR-bald-7;86012348;Balance Auxiliares Fecha Corte;ZZZ
+IFR-bald-8;86012348;Balance Auxiliar Columnado;ZZZ
+IFR-bald-9;86012348;Balance Movimientos Acumulados;ZZZ
+IFR-bald-10;86012348;Balance Auxiliar Comparativo;ZZZ
+IFR-BALP-1;86012348;Balance a Nivel de Auxiliares;ZZZ
+IFR-BALP-2;86012348;Balance Saldo Actual;ZZZ
+IFR-BALP-3;86012348;Balance Comparativo $ IFRS$;ZZZ
+IFR-BALP-4;86012348;Balance Saldos Y Movimientos;ZZZ
+IFR-BALP-5;86012348;Balance Cuentas Alternas;ZZZ
+IFR-BALP-6;86012348;Balance Cuentas Alternas Gener;ZZZ
+IFR-BALP-7;86012348;Balance Auxiliar Fecha Corte;ZZZ
+IFR-BALP-8;86012348;Balance Movimientos Acumulados;ZZZ
+IFR-BALP-9;86012348;Balance Auxiliar Comparativo;ZZZ
+IFR-BC04-1;86012348;P y G Mes y ano;ZZZ
+IFR-BC04-2;86012348;Columnado por Meses;ZZZ
+IFR-BUSO-1;86012348;Balance en Dolares;ZZZ
+IFR-BUSO-2;86012348;Balance Dolares Saldo Actual;ZZZ
+IFR-BUSO-3;86012348;Balance Comparativo;ZZZ
+IFR-BUSO-4;86012348;Balance Movimientos Acumulados;ZZZ
+IFR-IFR1-1;86012348;Captura de Notas IFRS;ZZZ
+IFR-IFR1-2;86012348;Cambio de Tasa;ZZZ
+IFR-IFR1-3;86012348;Importar Gastos Legalizacion;ZZZ
+IFR-IFR1-4;86012348;Cambio de Tasa Por Comp-Fecha;ZZZ
+IFR-NIC-1;86012348;Crear NIC;ZZZ
+IFR-NIC-2;86012348;Asignar Archivo a NIC;ZZZ
+IFR-NIC-3;86012348;Asignar datos a Sistema;ZZZ
+IFR-NIC-4;86012348;Consulta NIC por sistema;ZZZ
+IFR-otrp-1;86012348;Impresion Documentos Contables;ZZZ
+IFR-pygd-1;86012348;P y G Mes y Ano;ZZZ
+IFR-pygd-2;86012348;P y G Columnado por Mes;ZZZ
+IFR-pygd-3;86012348;P y G Cuentas Alternas;ZZZ
+IFR-pygd-4;86012348;P y G Fecha Corte;ZZZ
+IFR-pygd-5;86012348;P y G Comparativo;ZZZ
+IFR-pygd-6;86012348;P y G Columnado Acumulado;ZZZ
+IFR-PYGP-1;86012348;P y G Mes y Ano;ZZZ
+IFR-PYGP-2;86012348;P y G Columnado por Mes;ZZZ
+IFR-PYGP-3;86012348;P y G Cuentas Alternas;ZZZ
+IFR-PYGP-4;86012348;P y G Fecha Corte;ZZZ
+IFR-PYGP-5;86012348;P y G Comparativo;ZZZ
+IFR-PYGP-6;86012348;P y G Columnado Acumulado;ZZZ
+IFR-US$-3;86012348;Libros Auxiliares Especial;ZZZ
+IFR-US1-1;86012348;Captura de Notas IFRS US;ZZZ
+IFR-US1-2;86012348;Ajuste Tasa Cierre;ZZZ
+IFR-US1-3;86012348;Borrar Documento de Ajuste;ZZZ
+IFR-US1-4;86012348;Ajuste Tasa Cierre Fecha Corte;ZZZ
+IFR-US1-5;86012348;Importar Notas IFRS;ZZZ
+INV-INV1-2;86012348;Productos;ZZZ
+INV-INV1-3;86012348;Existencias por Ramo;ZZZ
+INV-INV1-4;86012348;Productos Especial;ZZZ
+INV-INV1-5;86012348;Existencias Productos;ZZZ
+INV-INV11-1;86012348;Bodegas;ZZZ
+INV-INV11-2;86012348;Lineas de Inventarios;ZZZ
+INV-INV11-3;86012348;Grupos de Inventarios;ZZZ
+INV-INV11-4;86012348;Subgrupos de Inventarios;ZZZ
+INV-INV11-5;86012348;Operaciones de Inventarios;ZZZ
+INV-INV11-6;86012348;Ubicaciones;ZZZ
+INV-INV11-7;86012348;Unidades De Medidas;ZZZ
+INV-INV11-8;86012348;C.Costos de Consumos;ZZZ
+INV-INV11-9;86012348;Tipos de Inventarios;ZZZ
+INV-INV11-10;86012348;Creación Calendario;ZZZ
+INV-INV11-11;86012348;Fincas;ZZZ
+INV-INV11-12;86012348;Operarios;ZZZ
+INV-INV11-13;86012348;Centros de Inventarios;ZZZ
+INV-INV11-14;86012348;Localidades;ZZZ
+INV-INV11-15;86012348;Divisiones;ZZZ
+INV-INV11-16;86012348;Tipos de Empaque;ZZZ
+INV-INV11-17;86012348;Fincas por Grupo;ZZZ
+INV-INV11-18;86012348;Colores;ZZZ
+INV-INV2-1;86012348;En Tiempo Real;ZZZ
+INV-INV2-2;86012348;En Batch;ZZZ
+INV-INV2-3;86012348;Inicio de Mes;ZZZ
+INV-INV2-4;86012348;Cierre o Bloqueo del Mes;ZZZ
+INV-INV2-5;86012348;Devolucion a Proveedores;ZZZ
+INV-INV2-6;86012348;Actualizacion en Batch Por Inventario;ZZZ
+INV-INV2-7;86012348;Precontabilizacion;ZZZ
+INV-INV2-8;86012348;Contabilizacion;ZZZ
+INV-INV2-9;86012348;Cambio de Codigos;ZZZ
+INV-INV2-10;86012348;Importar/exportar novedades;ZZZ
+INV-INV3-1;86012348;Cartilla de Productos;ZZZ
+INV-INV3-2;86012348;Existencias;ZZZ
+INV-INV3-3;86012348;Novedades;ZZZ
+INV-INV3-4;86012348;Kardex o Auxiliares;ZZZ
+INV-INV3-5;86012348;Maximos, Minimos, Pto. De Pedido;ZZZ
+INV-INV3-6;86012348;Materiales Consumidos Por Centro;ZZZ
+INV-INV3-7;86012348;Novedades por Fecha-Operacion-Producto;ZZZ
+INV-INV4-1;86012348;Maestro de Productos;ZZZ
+INV-INV4-2;86012348;Saldos de Inventarios;ZZZ
+INV-INV4-5;86012348;Kardex o Auxiliares;ZZZ
+INV-INV4-6;86012348;Kardex Consolidado;ZZZ
+INV-INV4-7;86012348;Documentos de Inventarios;ZZZ
+INV-INV4-8;86012348;Existencias Acumuladas;ZZZ
+INV-INV4-9;86012348;Productos Inactivos;ZZZ
+INV-INV4-10;86012348;Resumen de Compras a Proveedores;ZZZ
+INV-INV4-11;86012348;Productos en Estado Critico;ZZZ
+INV-INV4-12;86012348;Informe de Materiales Utilizados por CC;ZZZ
+INV-INV4-13;86012348;Precontabilizacion;ZZZ
+INV-INV4-15;86012348;Movimiento por Cuenta;ZZZ
+INV-INV4-16;86012348;Compras y Consumos del Año;ZZZ
+INV-INV4-17;86012348;Novedades Por Operacion Cta-Co;ZZZ
+INV-INV4-18;86012348;Compras y Consumos por Años;ZZZ
+INV-INV4-19;86012348;Existencias Por LGS-Cuenta Con;ZZZ
+INV-INV5-1;86012348;Generacion de Tarjetas;ZZZ
+INV-INV5-2;86012348;Inventario Fisico;ZZZ
+INV-INV5-3;86012348;Cambiar Ubicacion;ZZZ
+INV-INV5-4;86012348;Tarjetas No Digitadas;ZZZ
+INV-INV5-5;86012348;Generar Novedades de Ajuste;ZZZ
+INV-INV5-6;86012348;Importar Archivo de Conteos;ZZZ
+INV-INV5-7;86012348;Listado de Tarjetas;ZZZ
+INV-INV6-1;86012348;Creacion de Fabricantes;ZZZ
+INV-INV6-2;86012348;Creacion de Maquinas;ZZZ
+INV-INV6-3;86012348;Informe de Consumos por Meses;ZZZ
+INV-INV6-4;86012348;Consulta de Maquinas;ZZZ
+INV-INV6-5;86012348;Consulta de estadisticas Anual;ZZZ
+INV-INV6-6;86012348;Informes de Maquinas;ZZZ
+INV-INV6-7;86012348;Traslado de Maquinas;ZZZ
+INV-INV6-8;86012348;Cambiar Placa;ZZZ
+INV-INV6-9;86012348;Informe Ferrovias;ZZZ
+INV-INVR1-1;86012348;Bodega-Cuenta-Linea-Grupo-Subgrupo;ZZZ
+INV-INVR1-2;86012348;Bodega-Linea-Grupo-Subgrupo;ZZZ
+INV-INVR1-3;86012348;Bodega-Nombre;ZZZ
+INV-INVR1-4;86012348;Cuenta-Linea-Grupo-Subgrupo  ;ZZZ
+INV-INVR1-5;86012348;Linea-Grupo-Subgrupo Solo Cantidades;ZZZ
+INV-INVR1-6;86012348;Linea-Subgrupo-grupo Solo Cantidades;ZZZ
+INV-INVR1-7;86012348;Comparativas  ;ZZZ
+INV-INVR1-8;86012348;Columnadas por Bodega;ZZZ
+INV-INVR1-9;86012348;Por Cuenta Fecha Corte;ZZZ
+INV-INVR1-10;86012348;Saldos con Inconsistencias;ZZZ
+INV-INVR1-11;86012348;Bodega-Nombre Fecha Corte;ZZZ
+INV-INVR2-1;86012348;Bodega-Producto;ZZZ
+INV-INVR2-2;86012348;Producto-Fecha;ZZZ
+INV-INVR2-3;86012348;Operacion-Producto;ZZZ
+INV-INVR2-4;86012348;Comprobante-Documento;ZZZ
+INV-INVR2-5;86012348;Operacion-Nit;ZZZ
+INV-INVR2-6;86012348;Resumen Operacion-Productos;ZZZ
+INV-INVR2-7;86012348;Resumen Bodega-Operaciones-Lineas;ZZZ
+INV-INVR2-8;86012348;Resumen de Consumos Div-Loc-Cen-Linea-Pro;ZZZ
+INV-INVR2-9;86012348;Resumen de Consumos Div-Loc-Cen-Linea-Gru;ZZZ
+INV-INVR2-10;86012348;Resumen de Consumos Div-Loc-Cen-Linea-Gru;ZZZ
+INV-INVR2-11;86012348;Resumen de Consumos Cen-Lin-Pro;ZZZ
+INV-INVR2-12;86012348;Resumen Bodega-Operacion-Productos;ZZZ
+INV-INVR2-13;86012348;Consecutivo de Documentos por Comprobante;ZZZ
+INV-INVR2-14;86012348;Operacion Fecha Div-Loc-Cen;ZZZ
+INV-INVRF-1;86012348;Por grados;ZZZ
+INV-INVRF-2;86012348;Por Colores-Grados;ZZZ
+INV-INVRF-3;86012348;Por Colores-Fincas-Grados;ZZZ
+INV-INVRF-4;86012348;Por operarios;ZZZ
+INV-INVRF-5;86012348;Unidades por Documento;ZZZ
+INV-INVRF-6;86012348;Resumen De Operaciones por Linea;ZZZ
+INV-INVRF-7;86012348;Resumen Por Lineas-Operacion;ZZZ
+INV-INVRF-8;86012348;Produccion del Mes por Cultivo;ZZZ
+INV-INVRF-9;86012348;Resumen de Ope. Por Linea Total;ZZZ
+INV-INVRF-10;86012348;Produccion Por Dias-Grupos;ZZZ
+INV-INVRF-11;86012348;Entradas Otras Fincas;ZZZ
+NOM-DOTN-1;86012348;Articulos de Dotacion;ZZZ
+NOM-DOTN-2;86012348;Dotaciones Por Trabajador;ZZZ
+NOM-DOTN-3;86012348;Fecha de Entrega Por Trabajado;ZZZ
+NOM-DOTN-4;86012348;Fecha de Entrega Por Ubicacion;ZZZ
+NOM-NO112-1;86012348;Captura Parte Diario;ZZZ
+NOM-NO112-2;86012348;Consulta Parte Diario;ZZZ
+NOM-NO112-3;86012348;Horas Laboradas En El Mes;ZZZ
+NOM-NO112-4;86012348;Generar Novedades de Nomina;ZZZ
+NOM-NO112-5;86012348;Reporte de Novedades por Concepto;ZZZ
+NOM-NO112-6;86012348;Reporte Novedades Por Orden de Servicio;ZZZ
+NOM-NO112-7;86012348;Reporte de Novedades por Fecha Nomina;ZZZ
+NOM-NO114-1;86012348;Consulta Marcaciones del reloj;ZZZ
+NOM-NO114-2;86012348;Consulta Marcaciones Reloj por Fecha;ZZZ
+NOM-NO114-3;86012348;Consulta Inconsistencias Reloj por Nit;ZZZ
+NOM-NO114-4;86012348;Consulta Inconsistencias Reloj por Fecha;ZZZ
+NOM-NO114-5;86012348;Consulta Permisos del reloj por Nit;ZZZ
+NOM-NO114-6;86012348;Consulta Permisos del reloj por Fecha;ZZZ
+NOM-NO114-7;86012348;Marcaciones Importadas del reloj por Nit;ZZZ
+NOM-NO114-8;86012348;Marcaciones Importadas del reloj x Fecha;ZZZ
+NOM-NO115-1;86012348;Informe Columnado Horas Marcadas Reloj;ZZZ
+NOM-NO115-2;86012348;Informe Inconsistencias en reloj;ZZZ
+NOM-NO115-3;86012348;Informe Permisos Generados por Marcacion;ZZZ
+NOM-NO115-4;86012348;Informe Mensual Casino;ZZZ
+NOM-NO115-5;86012348;Informe Diario Casino;ZZZ
+NOM-NO115-6;86012348;Informe de Inconsistencias Diario;ZZZ
+NOM-NO115-7;86012348;Informe Tirillas Novedades Reloj;ZZZ
+NOM-NO115-8;86012348;Informe Marcacion Vs Turnos;ZZZ
+NOM-NO115-9;86012348;Reporte Turnos de Trabajo;ZZZ
+NOM-NO115-10;86012348;Informe de Marcaciones vs Turnos Lo-Cen;ZZZ
+NOM-NO211-1;86012348;Autoliquidacion de Aportes;ZZZ
+NOM-NO211-2;86012348;Creacion y Mantenimiento;ZZZ
+NOM-NO211-3;86012348;Incapacidades a Restar por Fondo;ZZZ
+NOM-NO211-4;86012348;Novedades de Traslados;ZZZ
+NOM-NO211-5;86012348;Planillas Para Revision Salud;ZZZ
+NOM-NO211-6;86012348;Planillas Para Revision Pension;ZZZ
+NOM-NO211-7;86012348;Planillas Para Revision Riesgos;ZZZ
+NOM-NO211-8;86012348;Planillas Para Revision Cajas;ZZZ
+NOM-NO211-9;86012348;Archivo SOI;ZZZ
+NOM-NOM-3;86012348;Informe de Aumentos Emp-Loc-Ce;ZZZ
+NOM-NOM08-5;86012348;Actualizacion de Aumentos;ZZZ
+NOM-nom1-7;86012348;Nuevo Maestro de Empleados;ZZZ
+NOM-NOM10-1;86012348;Creacion Empleados Retirados;ZZZ
+NOM-NOM10-2;86012348;Consulta Contratos Por Fecha;ZZZ
+NOM-NOM10-3;86012348;Consulta de Retirados Por Emp-Nit;ZZZ
+NOM-NOM10-4;86012348;Consulta de Retirados Por Emp-Fecha;ZZZ
+NOM-NOM10-5;86012348;Reporte Empleados Retirados Por Empresa;ZZZ
+NOM-NOM10-6;86012348;Reporte Empleados Retirados Por Fecha;ZZZ
+NOM-NOM11-1;86012348;Datos Generales de Liquidacion;ZZZ
+NOM-NOM11-2;86012348;Centros de Costos;ZZZ
+NOM-NOM11-3;86012348;Localidades;ZZZ
+NOM-NOM11-4;86012348;Conceptos de Liquidacion;ZZZ
+NOM-NOM11-5;86012348;Cargos Laborales;ZZZ
+NOM-NOM11-6;86012348;Profesiones;ZZZ
+NOM-NOM11-7;86012348;Fondos Cesantias y Seguridad;ZZZ
+NOM-NOM11-8;86012348;Ciudades;ZZZ
+NOM-NOM11-9;86012348;Departamentos;ZZZ
+NOM-NOM11-10;86012348;Barrios;ZZZ
+NOM-NOM11-11;86012348;Tablas de Retencion;ZZZ
+NOM-NOM11-12;86012348;Motivos de Retiro;ZZZ
+NOM-NOM11-13;86012348;Bancos;ZZZ
+NOM-NOM11-14;86012348;Sucursales Bancarias;ZZZ
+NOM-NOM11-15;86012348;Porcentajes de Riesgos;ZZZ
+NOM-NOM11-17;86012348;Topes de Cesantias En Certificados;ZZZ
+NOM-NOM11-18;86012348;Divisiones de Nomina;ZZZ
+NOM-NOM11-19;86012348;Enfermedades;ZZZ
+NOM-NOM111-1;86012348;Creacion Incapacidades;ZZZ
+NOM-NOM111-2;86012348;Informe de Incapacidades Del Mes por Dia;ZZZ
+NOM-NOM111-3;86012348;Reporte de Enfermedades Por Mes;ZZZ
+NOM-NOM111-4;86012348;Reporte de Enfermedades Por Ano;ZZZ
+NOM-NOM111-5;86012348;Incapacidades del ano por Empleado;ZZZ
+NOM-NOM111-6;86012348;Incapacidades Por Enfermedad Por Loc-Cen;ZZZ
+NOM-NOM111-7;86012348;Informe incapacidad por Fondo Salud;ZZZ
+NOM-NOM111-8;86012348;Informe Incapacidad por Fondo Riesgo;ZZZ
+NOM-NOM111-9;86012348;Informe de Incapacidades;ZZZ
+NOM-NOM12-1;86012348;Hoja de Vida Empleado;ZZZ
+NOM-NOM12-2;86012348;Cambio de Fechas y Salarios;ZZZ
+NOM-NOM12-3;86012348;Aportes Voluntarios;ZZZ
+NOM-NOM12-5;86012348;Cambiar Division-Localidad-Centro;ZZZ
+NOM-NOM12-6;86012348;Informe Hoja de Vida;ZZZ
+NOM-NOM12-7;86012348;Ingresar Datos Adicionales;ZZZ
+NOM-NOM18-1;86012348;Creacion de Personas;ZZZ
+NOM-NOM18-2;86012348;Consulta Personas Dependientes;ZZZ
+NOM-NOM18-3;86012348;Reporte de Hijo Menores N Año;ZZZ
+NOM-NOM18-4;86012348;Reporte Personas Dependientes;ZZZ
+NOM-NOM18-5;86012348;Reporte Para Auxilios Educativos;ZZZ
+NOM-NOM1A-2;86012348;Centros de Costos;ZZZ
+NOM-nom1a-3;86012348;Localidades;ZZZ
+NOM-NOM1A-4;86012348;Cargos;ZZZ
+NOM-NOM1A-5;86012348;Profesiones;ZZZ
+NOM-NOM1A-6;86012348;Motivos de Retiro;ZZZ
+NOM-NOM1A-7;86012348;Departamentos;ZZZ
+NOM-NOM1A-8;86012348;Ciudades;ZZZ
+NOM-NOM1A-10;86012348;Porcentajes de Riesgo;ZZZ
+NOM-NOM1A-11;86012348;Bancos;ZZZ
+NOM-NOM1A-13;86012348;Enfermedades;ZZZ
+NOM-NOM1A-14;86012348;Fondos Cesantías y Seguridad;ZZZ
+NOM-NOM1A-15;86012348;Conceptos de Liquidacion;ZZZ
+NOM-nom1a-16;86012348;Centros de Trabajo;ZZZ
+NOM-NOM1B-1;86012348;Tablas de Retencion;ZZZ
+NOM-NOM1B-2;86012348;Calendario Dias NO Habiles;ZZZ
+NOM-NOM1B-3;86012348;Datos Generales de Liquidacion;ZZZ
+NOM-NOM1B-4;86012348;Actualizar Aporte a Salud;ZZZ
+NOM-NOM1B-5;86012348;Parametros Liquidacion Nomina;ZZZ
+NOM-NOM1C-1;86012348;Conceptos Para Provisionar;ZZZ
+NOM-NOM1C-2;86012348;Contabilizacion Nominas;ZZZ
+NOM-NOM1C-3;86012348;Contabilizacion Provisiones;ZZZ
+NOM-NOM1C-4;86012348;Copiar Parametros Nomina;ZZZ
+NOM-NOM1C-5;86012348;Copiar Parametros Provisiones;ZZZ
+NOM-NOM1C-6;86012348;Copiar Par. Nomina x Concepto;ZZZ
+NOM-NOM1D-1;86012348;Hoja de Vida;ZZZ
+NOM-NOM1D-2;86012348;Cambio de Salario;ZZZ
+NOM-NOM1D-3;86012348;Importar Maestro de Empleados;ZZZ
+NOM-NOM1D-4;86012348;Cambio de Ubicacion;ZZZ
+NOM-NOM1E-1;86012348;Prestamos;ZZZ
+NOM-NOM1E-2;86012348;Pagos y Descuentos Fijos;ZZZ
+NOM-NOM1E-3;86012348;Cesantias Pagadas;ZZZ
+NOM-NOM1E-4;86012348;Vacaciones Pagadas;ZZZ
+NOM-NOM1E-5;86012348;Personas Dependientes;ZZZ
+NOM-NOM1E-6;86012348;Ausencias y Suspensiones;ZZZ
+NOM-NOM1E-7;86012348;Incapacidades;ZZZ
+NOM-NOM1E-10;86012348;Importar Con.Fijos Auxilios;ZZZ
+NOM-NOM1E-12;86012348;Embargos;ZZZ
+NOM-NOM1E-13;86012348;Captura parte diario de horas;ZZZ
+NOM-NOM1E-14;86012348;Resumen partes por concepto;ZZZ
+NOM-NOM1F-1;86012348;Aumento por Trabajador;ZZZ
+NOM-NOM1F-2;86012348;Aumento por Ubicacion;ZZZ
+NOM-NOM1F-3;86012348;Reporte Para Actualizacion;ZZZ
+NOM-NOM1F-4;86012348;Actualizacion;ZZZ
+NOM-NOM1F-5;86012348;Aumento por Cargo;ZZZ
+NOM-NOM21-1;86012348;Informe de Novedades;ZZZ
+NOM-NOM21-2;86012348;Informe de Nomina Liquidada;ZZZ
+NOM-NOM21-3;86012348;Distribucion Por C.Costos;ZZZ
+NOM-NOM21-4;86012348;Volantes de Pago;ZZZ
+NOM-NOM21-5;86012348;Valores Liq. Por Concepto;ZZZ
+NOM-NOM21-6;86012348;Relacion de Netos;ZZZ
+NOM-NOM21-7;86012348;Relacion de Bancos y Archivo Texto Daviv;ZZZ
+NOM-NOM21-8;86012348;Informe de Anticipos;ZZZ
+NOM-NOM21-10;86012348;Informe de Novedades por Loc-Cen-empl;ZZZ
+NOM-NOM21-11;86012348;Discriminacion de Anticipos con Primas;ZZZ
+NOM-NOM21-12;86012348;Relacion de Bancos y Archivo Texto Banco de Bogota;ZZZ
+NOM-NOM21-13;86012348;Informe Discriminado Para Cajas;ZZZ
+NOM-NOM21-14;86012348;Relacion de Anticipos Banco Bogota;ZZZ
+NOM-NOM21-15;86012348;Certificados de Primas;ZZZ
+NOM-NOM21-16;86012348;Informe de Nomina A Excel;ZZZ
+NOM-NOM21-17;86012348;Volantes de Pago Confidencial;ZZZ
+NOM-NOM21-18;86012348;Certificacion de Ingresos;ZZZ
+NOM-NOM21-19;86012348;Informe de Bancos;ZZZ
+NOM-NOM22-1;86012348;Actualizacion de Nominas;ZZZ
+NOM-NOM22-2;86012348;Creacion y Mantenimiento;ZZZ
+NOM-NOM22-3;86012348;Reporte y Archivos Texto;ZZZ
+NOM-NOM22-4;86012348;Informe Arp Bolivar;ZZZ
+NOM-NOM26-1;86012348;Nomina Individual;ZZZ
+NOM-NOM26-2;86012348;Nominas Acumuladas del Mes;ZZZ
+NOM-NOM2A-1;86012348;Inicio de Nueva Liquidacion;ZZZ
+NOM-NOM2A-2;86012348;Creacion Novedades/Anticipo;ZZZ
+NOM-NOM2A-3;86012348;Generacion Horas Retroactivas;ZZZ
+NOM-NOM2A-4;86012348;Captura Parte Diario;ZZZ
+NOM-NOM2A-5;86012348;Generar Novedades de Nomina;ZZZ
+NOM-NOM2A-6;86012348;Importar Novedades de Nomina;ZZZ
+NOM-NOM2A-7;86012348;Creacion Novedades/Anticipo Viejo (PRUEBA);ZZZ
+NOM-NOM2B-1;86012348;Novedades de Nomina;ZZZ
+NOM-NOM2B-2;86012348;Consulta Parte Diario;ZZZ
+NOM-NOM2B-3;86012348;Horas Laboradas en el Mes;ZZZ
+NOM-NOM2C-1;86012348;Novedades de Nomina;ZZZ
+NOM-NOM2C-2;86012348;Novedades por Ubicacion;ZZZ
+NOM-NOM2C-7;86012348;Retencion Sobre Prenomina;ZZZ
+NOM-NOM2C-8;86012348;Prenomina Columnada;ZZZ
+NOM-NOM2C-9;86012348;Reporte de Novedades por Concepto;ZZZ
+NOM-NOM2C-10;86012348;Reporte de novedades por Fecha Nomina;ZZZ
+NOM-NOM2X-1;86012348;Informe Por Fecha-Empleado;ZZZ
+NOM-NOM2X-2;86012348;Informe Por Empleado-Fecha;ZZZ
+NOM-NOM2X-3;86012348;Informe Por Centros-Fecha;ZZZ
+NOM-NOM2X-4;86012348;Informe Por Centro-Empleado-Fecha;ZZZ
+NOM-NOM2X-5;86012348;Informe Resumido Por Centro-Cargo;ZZZ
+NOM-NOM3-2;86012348;Mantenimiento de Nomina;ZZZ
+NOM-NOM3-3;86012348;Liquidacion Prenomina;ZZZ
+NOM-NOM3-4;86012348;Liquidacion Nomina Definitiva;ZZZ
+NOM-NOM3-5;86012348;Importar Nominas;ZZZ
+NOM-NOM3-6;86012348;Generar Nomina Extra Auxilios;ZZZ
+NOM-NOM30-1;86012348;Creacion de Articulos Dotacion;ZZZ
+NOM-NOM30-2;86012348;Creacion de Dotaciones;ZZZ
+NOM-NOM30-3;86012348;Consulta de dotaciones por empleado;ZZZ
+NOM-NOM30-4;86012348;Consulta de dotaciones por Articulo;ZZZ
+NOM-NOM30-5;86012348;Reporte para compra de dotaciones;ZZZ
+NOM-NOM30-6;86012348;Informe de dotaciones por empleado;ZZZ
+NOM-NOM30-7;86012348;Volantes de entrega por LOC - C. Costos;ZZZ
+NOM-NOM30-8;86012348;Volantes de entrega por codigo;ZZZ
+NOM-NOM30-9;86012348;Actualizacion fecha de entrega por codigo;ZZZ
+NOM-NOM30-10;86012348;Actualizacion fecha de entrega por LOC-C.COSTOS;ZZZ
+NOM-NOM30-11;86012348;Creacion de articulos a entregar;ZZZ
+NOM-NOM30-12;86012348;Reporte para compra por finca;ZZZ
+NOM-NOM30-13;86012348;Informe ultimos articulos entregados;ZZZ
+NOM-NOM4-5;86012348;Cierre de Nomina;ZZZ
+NOM-NOM4-6;86012348;Generación de Cheques;ZZZ
+NOM-NOM4A-1;86012348;Nomina Liquidada;ZZZ
+NOM-NOM4A-2;86012348;Distribucion Centro de Costos;ZZZ
+NOM-NOM4A-3;86012348;Volantes de Pago;ZZZ
+NOM-NOM4A-5;86012348;Valores Liq. Por Concepto;ZZZ
+NOM-NOM4A-6;86012348;Relacion Netos;ZZZ
+NOM-NOM4A-11;86012348;Nomina Disc. Cajas de Compens.;ZZZ
+NOM-NOM4A-13;86012348;Nomina A Excel;ZZZ
+NOM-NOM4A-14;86012348;Informe de Bancos;ZZZ
+NOM-NOM4A-17;86012348;Calculo de Retencion Mensual;ZZZ
+NOM-NOM4A-18;86012348;Rotacion de Empleados;ZZZ
+NOM-NOM4A-19;86012348;Incapacidades por Fondo;ZZZ
+NOM-NOM4A-25;86012348;Volantes Por Email;ZZZ
+NOM-NOM4A-27;86012348;Volantes Media Pagina;ZZZ
+NOM-NOM4A-28;86012348;Gastos de Personal;ZZZ
+NOM-NOM4B-1;86012348;Nominas Individuales;ZZZ
+NOM-NOM4B-2;86012348;Nominas Acumuladas;ZZZ
+NOM-NOM4C-1;86012348;Autoliquidacion de Aportes;ZZZ
+NOM-NOM4C-2;86012348;Creacion/Mant. Autoliquidacion;ZZZ
+NOM-NOM4C-3;86012348;Incapacidades a Restar;ZZZ
+NOM-NOM4C-4;86012348;Novedades de Traslados;ZZZ
+NOM-NOM4C-5;86012348;Planillas Revision Salud;ZZZ
+NOM-NOM4C-6;86012348;Planillas Revision Pension;ZZZ
+NOM-NOM4C-7;86012348;Planillas Revision Riesgos;ZZZ
+NOM-NOM4C-8;86012348;Planillas Revision Cajas;ZZZ
+NOM-NOM4C-9;86012348;Generacion Archivo SOI;ZZZ
+NOM-NOM4C-10;86012348;Aportes Consolidados;ZZZ
+NOM-NOM4C-11;86012348;Autoliquidacion de aportes;ZZZ
+NOM-NOM4D-1;86012348;Actualizacion de Nomina;ZZZ
+NOM-NOM4D-2;86012348;Contabilizacion de Nomina;ZZZ
+NOM-NOM4D-3;86012348;Contab. Aportes (Seguridad y P;ZZZ
+NOM-NOM4D-5;86012348;Generacion de Cheques;ZZZ
+NOM-NOM5-1;86012348;Prestamos por Empleado;ZZZ
+NOM-NOM5-2;86012348;Prestamos por Concepto;ZZZ
+NOM-NOM5-3;86012348;Pagos de Cesantias;ZZZ
+NOM-NOM5-4;86012348;Pagos de Vacaciones;ZZZ
+NOM-NOM5-5;86012348;Acumulados del Año;ZZZ
+NOM-NOM5-6;86012348;Historico Salarios;ZZZ
+NOM-NOM5-7;86012348;Gerencial;ZZZ
+NOM-NOM5-9;86012348;Consulta General;ZZZ
+NOM-NOM5A-1;86012348;Por Trabajador;ZZZ
+NOM-NOM5A-2;86012348;Por Articulo;ZZZ
+NOM-NOM6-1;86012348;Empleados por Fecha de Ingreso;ZZZ
+NOM-NOM6-2;86012348;Cartilla de Empleados;ZZZ
+NOM-NOM6-3;86012348;Empleados por Actividad;ZZZ
+NOM-NOM6-4;86012348;Cumpleaños del Mes;ZZZ
+NOM-NOM6-5;86012348;Prestamos por Empleado;ZZZ
+NOM-NOM6-6;86012348;Empleados por Banco;ZZZ
+NOM-NOM6-7;86012348;Reporte Hoja de Vida;ZZZ
+NOM-NOM6-8;86012348;Empleados No Aportan Pension;ZZZ
+NOM-NOM6-9;86012348;Horas Laboradas en el Mes;ZZZ
+NOM-NOM6-15;86012348;Pagos y Descuentos Fijos;ZZZ
+NOM-NOM6-16;86012348;Trabajadores sin Fotografia;ZZZ
+NOM-NOM6-17;86012348;Planilla Horas Extras;ZZZ
+NOM-NOM6-18;86012348;Cambio de Salarios;ZZZ
+NOM-NOM6-19;86012348;Informe Excel Colsubsidio;ZZZ
+NOM-NOM6-20;86012348;Horas Laboradas En El Año;ZZZ
+NOM-NOM6-21;86012348;Incapacidades Por Concepto;ZZZ
+NOM-NOM6-22;86012348;Reporte Para Medios;ZZZ
+NOM-NOM6-23;86012348;Reporte y Archivo texto Banco;ZZZ
+NOM-NOM6-24;86012348;Reporte y Archivo texto Bancolombia;ZZZ
+NOM-NOM6-25;86012348;Reporte y Archivo Texto AV Villas;ZZZ
+NOM-NOM6-26;86012348;Hijos Menores;ZZZ
+NOM-NOM6-27;86012348;Relacion de horas en el mes;ZZZ
+NOM-NOM6-28;86012348;Para Auxilios Educativos;ZZZ
+NOM-NOM6A-1;86012348;Por Empleado;ZZZ
+NOM-NOM6A-2;86012348;Por Cargo;ZZZ
+NOM-NOM6A-3;86012348;Por Totales;ZZZ
+NOM-NOM6A-4;86012348;Por Concepto;ZZZ
+NOM-NOM6A-5;86012348;Por Concepto Columnado;ZZZ
+NOM-NOM6A-6;86012348;Del Año Columnados;ZZZ
+NOM-NOM6A-7;86012348;Ultimos 12 Meses Columnados;ZZZ
+NOM-NOM6A-8;86012348;Nomina N Meses;ZZZ
+NOM-NOM6A-13;86012348;Acumulados por Tipo;ZZZ
+NOM-NOM6B-1;86012348;Cesantias e Intereses;ZZZ
+NOM-NOM6B-2;86012348;Vacaciones;ZZZ
+NOM-NOM6B-3;86012348;Pago de Cesantias;ZZZ
+NOM-NOM6C-1;86012348;Vacaciones Pendientes;ZZZ
+NOM-NOM6C-2;86012348;Contratos por Vencer;ZZZ
+NOM-NOM6C-3;86012348;Ausencias y Suspensiones;ZZZ
+NOM-NOM6C-4;86012348;Calculo Retencion en la Fuente;ZZZ
+NOM-NOM6D-1;86012348;Del Mes por Dia;ZZZ
+NOM-NOM6D-2;86012348;Enfermedades por Mes;ZZZ
+NOM-NOM6D-3;86012348;Enfermades por Año;ZZZ
+NOM-NOM6D-4;86012348;Incapacidades Año por Empleado;ZZZ
+NOM-NOM6D-5;86012348;Incapacidades Año x Ubicacion;ZZZ
+NOM-NOM6D-6;86012348;Incapacidad Año Fondo de Salud;ZZZ
+NOM-NOM6D-7;86012348;Incapacidades Año x Fondo Ries;ZZZ
+NOM-NOM6D-8;86012348;Informe General Incapacidades;ZZZ
+NOM-NOM6D-9;86012348;Del Mes por Concepto;ZZZ
+NOM-NOM6E-1;86012348;Para Compra de Dotaciones;ZZZ
+NOM-NOM6E-2;86012348;Dotaciones por Trabajador;ZZZ
+NOM-NOM6E-3;86012348;Volantes Entrega por Ubicacion;ZZZ
+NOM-NOM6E-4;86012348;Volantes Entrega x Trabajador;ZZZ
+NOM-NOM7-1;86012348;Consolidacion de Cesantias;ZZZ
+NOM-NOM7-2;86012348;Consolidacion de Vacaciones;ZZZ
+NOM-NOM7-3;86012348;Prima Legal y Extralegal;ZZZ
+NOM-NOM7-4;86012348;Vacaciones;ZZZ
+NOM-NOM7-5;86012348;Contrato;ZZZ
+NOM-NOM7-6;86012348;Anticipos de Cesantias;ZZZ
+NOM-NOM8-1;86012348;De Prima de Servicios;ZZZ
+NOM-NOM8-2;86012348;De Ingresos Individual;ZZZ
+NOM-NOM8-3;86012348;De Ingresos Formato Estandar;ZZZ
+NOM-NOM9-1;86012348;Inicio de Mes;ZZZ
+NOM-NOM9-2;86012348;Liquidacion de Provisiones;ZZZ
+NOM-NOM9-3;86012348;Informe de Cesantias e Interes;ZZZ
+NOM-NOM9-4;86012348;Informe de Vacaciones;ZZZ
+NOM-NOM9-5;86012348;Informe de Prima Legal;ZZZ
+NOM-NOM9-6;86012348;Informa de Prima Extralegal;ZZZ
+NOM-NOM9-7;86012348;Informe de Prima de Vacaciones;ZZZ
+NOM-NOM9-8;86012348;Informe Consolidado Provisione;ZZZ
+NOM-NOM9-9;86012348;Contabilizacion de Provisiones;ZZZ
+NOM-NOMA-1;86012348;Importar Marcaciones;ZZZ
+NOM-NOMA-2;86012348;Generar Mastro de Marcaciones;ZZZ
+NOM-NOMA-3;86012348;Mantenimiento Marcaciones;ZZZ
+NOM-NOMA-6;86012348;Generar Novedades de Nomina;ZZZ
+NOM-NOMA-7;86012348;Generar Novedades Liquidacion;ZZZ
+NOM-NOMA-8;86012348;Creacion/Mantenimiento Reloj;ZZZ
+NOM-NOMA-9;86012348;Creacion Control Reloj;ZZZ
+NOM-NOMAA-1;86012348;Marcaciones;ZZZ
+NOM-NOMAA-2;86012348;Marcaciones por Fecha;ZZZ
+NOM-NOMAA-3;86012348;Inconsistencias por Trabajador;ZZZ
+NOM-NOMAA-4;86012348;Inconsistencias por Fecha;ZZZ
+NOM-NOMAA-5;86012348;Permisos por Trabajador;ZZZ
+NOM-NOMAA-6;86012348;Permisos por Fecha;ZZZ
+NOM-NOMAA-7;86012348;Marcaciones Importadas x Trab.;ZZZ
+NOM-NOMAA-8;86012348;Marcaciones Importadas x Fecha;ZZZ
+NOM-NOMAB-1;86012348;Columnado Horas Marcadas;ZZZ
+NOM-NOMAB-2;86012348;Inconsistencias;ZZZ
+NOM-NOMAB-3;86012348;Permisos Generados x Marcacion;ZZZ
+NOM-NOMAB-4;86012348;Mensual Casino;ZZZ
+NOM-NOMAB-5;86012348;Diario Casino;ZZZ
+NOM-NOMAB-6;86012348;Inconsistencias Diario;ZZZ
+NOM-NOMAB-7;86012348;Tirillas Novedades;ZZZ
+NOM-NOMAB-8;86012348;Marcaciones VS Turnos;ZZZ
+NOM-NOMAB-9;86012348;Turnos de Trabajo;ZZZ
+NOM-NOMAB-10;86012348;Marcaciones Vs Turnos x Ubic.;ZZZ
+TES-TES1-1;86012348;Comprobantes Contables;ZZZ
+TES-TES1-2;86012348;Creacion Chequeras;ZZZ
+TES-TES1-3;86012348;Contabilizaciones Automaticas;ZZZ
+TES-TES1-4;86012348;Bancos;ZZZ
+TES-TES1-5;86012348;Informe Bancos;ZZZ
+TES-TES2-1;86012348;Actualizacion Egresos y Recibo;ZZZ
+TES-TES2-3;86012348;Anulacion y Copia de un Egreso;ZZZ
+TES-TES2-4;86012348;Actualizacion Entrega de Cheques;ZZZ
+TES-TES2-5;86012348;Emision Recibos de Caja;ZZZ
+TES-TES2-6;86012348;Anulacion y Copia Recibo;ZZZ
+TES-TES2-7;86012348;Reedicion Recibos de Caja;ZZZ
+TES-TES2-8;86012348;Act. Entrega de Cheques Por Rango;ZZZ
+TES-TES22-1;86012348;Edicion Cheques Banco de Bogota;ZZZ
+TES-TES22-3;86012348;Edicion Formato Pagina Blanca;ZZZ
+TES-TES3-1;86012348;Egresos de Pago;ZZZ
+TES-TES3-2;86012348;Consecutivos de Egresos;ZZZ
+TES-TES3-3;86012348;Pagos Por Nit;ZZZ
+TES-TES4-1;86012348;Recibo de Caja;ZZZ
+TES-TES4-2;86012348;Consecutivo de Recibos;ZZZ
+TES-TES4-3;86012348;Ingresos Recibidos Por Nit;ZZZ
+TES-TES4-4;86012348;Cheques Recibidos;ZZZ
+TES-TES4-5;86012348;Tarjetas Debito Recibidas;ZZZ
+TES-TES4-6;86012348;Tarjetas Credito Recibidas;ZZZ
+TES-TES5-1;86012348;Egresos Para Revision;ZZZ
+TES-TES5-2;86012348;Cheques Girados Por Banco;ZZZ
+TES-TES5-3;86012348;Informe Estado de Bancos;ZZZ
+TES-TES5-4;86012348;Informe Cheques Sin Entregar;ZZZ
+TES-TES5-5;86012348;Pagos Por Nit;ZZZ
+TES-TES6-1;86012348;Recibos de Caja en Borrador Para Revisio;ZZZ
+TES-TES6-2;86012348;Consecutivo de Recibos;ZZZ
+TES-TES6-3;86012348;Cheques Recibidos;ZZZ
+TES-TES6-4;86012348;Tarjetas Recibidas;ZZZ
+TES-TES6-5;86012348;Comprobante de Diario;ZZZ
+TES-TES6-6;86012348;Informe Estado de Caja;ZZZ
+TES-TES6-7;86012348;Flujo de Caja;ZZZ
+TES-TES7-1;86012348;Creacion Cheques Postfechados;ZZZ
+TES-TES7-2;86012348;Contabilizacion Cheques Postfe;ZZZ
+TES-TES7-3;86012348;Consulta Cheques Por Fecha;ZZZ
+TES-TES7-4;86012348;Consulta Cheques Por Nit;ZZZ
+TES-TES7-5;86012348;Informe Cheques Por Fecha;ZZZ
+TES-TES7-6;86012348;Informe Cheques Por Nit;ZZZ

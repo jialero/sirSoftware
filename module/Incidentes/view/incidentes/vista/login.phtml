@@ -1,0 +1,37 @@
+<?php 
+    $form = $this->form;
+    $form->prepare();
+    $form->setAttribute('action', $this->url.'/incidentes/vista/menu');  
+    //$form->setAttribute('action', $this->url(NULL,
+    //array('controller'=>'Index', 'action' => 'redireccionarDatos')));
+    $form->setAttribute('method', 'post');
+    $form->setAttribute('class','form-signin');
+    $form->setAttribute('role','form');
+    $formLabel = $this->plugin('formLabel'); 
+    
+    $formulario.=$this->form()->openTag($form);
+    $formulario.= "<h2 class='form-signin-heading'>Inicio de sesión</h2>";
+    //echo "aqui va lo recibido por url: ".$this->message;
+    ?><br><img src="<?php echo $this->basePath('/img/prueba.png')?>"  class='img-circle'><br>
+    <ul>
+    <li>valor de id=<?php echo $this->id?></li>
+    <li>valor de id2=<?php echo $this->id2?></li>
+    </ul>
+    <?php
+    foreach($form->getElements() as $campo)
+    {
+        //echo "<div class=\"form-group\">";
+        if($campo->getName()=='Recordar')
+        {
+            $formulario .= "<div class=\"checkbox\">"."Recordar cuenta";
+            $formulario .= $this->formRow($campo);
+            $formulario .= "</div>";
+        }
+        else
+            $formulario .= $this->formRow($campo);
+        //print_r($campo);       
+        //echo "</div>";
+    }
+    $formulario.= $this->form()->closeTag();
+    return $formulario;
+?>

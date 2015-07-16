@@ -1,0 +1,33 @@
+<script type="text/javascript">
+    var is_xmlhttprequest = <?php echo $this->is_xmlhttprequest; ?>;
+    var urlform           = '<?php echo $this->url('ajax', array('controller'=>'ajax', 'action'=>'validatepostajax')); ?>';
+</script>
+ 
+<?php echo $this->headScript()->appendFile($this->basePath() . '/js/ajax-subir.js'); ?>
+ 
+<?php
+$title = 'Prueba de Ajax';
+$this->headTitle($title);
+?>
+<h1><?php echo $this->escapeHtml($title); ?></h1>
+ 
+<?php
+$form = $this->form;
+$form->setAttribute('action', $this->url(
+    'ajax',
+    array(
+        'action'     => 'showform',
+        'controller' => 'ajax'
+    )
+));
+$form->prepare();
+?>
+ 
+<?php echo $this->form()->openTag($form); ?>
+<div class="element element_name">
+    <?php echo $this->formRow($form->get('campo')); ?>
+</div>
+<div class="element element_submit">
+    <?php echo $this->formRow($form->get('enviar')); ?>
+</div>
+<?php echo $this->form()->closeTag(); ?>

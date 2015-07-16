@@ -1,0 +1,3 @@
+COD;CONSEC;EMPRESA;PERIODO_PAGO;FECHA_INICIO;FECHA_FINAL;ACTIVO;CLAUSULA;VCONTRATO;VIMPUESTO;NCUOTAS;VCUOTA;VIMPUESTO_CUOTA
+8;6;86012345;1;2015-02-04;2015-10-30;1;Clausula10. El valor del contrato es de 12000000 por hacer uso del software Avanzi en 2 computadores ubicados en las instalaciones del cliente.;12000000;10;10;1200000;120000
+9;4;86012345;1;2015-02-05;2015-10-31;0;Clausula11. El valor del contrato es de 12000000 por hacer uso del software Avanzi en 2 computadores ubicados en las instalaciones del cliente.;13000000;10;10;1300000;130000

@@ -1,0 +1,5 @@
+COD;CONT_COD;CONT_CONS;EMPRESA_NIT;TITULO;DESCRIPCION
+4;1;1;86012348;SOPORTE MODULO ACTIVOS;Permite declarar los servicios de soporte que hacen parte del modulo activos, que usuarios hacen parte de él y los tiempos de respuesta
+5;1;1;86012347;SOPORTE MODULO CONTABILIDAD;Permite declarar los servicios de soporte que hacen parte del modulo contabilidad, que usuarios hacen parte de él y los tiempos de respuesta
+6;2;1;86012348;SOPORTE SW AVANZI;Permite declarar los servicios de soporte que hacen parte del software avanzi para la empresa TEUCALI
+7;3;1;86012349;SOPORTE MODULO NOMINA;Permite declarar los servicios de soporte que hacen parte del modulo nomina, que usuarios hacen parte de él y los tiempos de respuesta

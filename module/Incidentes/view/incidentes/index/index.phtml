@@ -1,0 +1,48 @@
+<div class="container">
+    <div class="row">
+        <div class="col-xs-3 col-sm-1 col-lg-1">Hor</div>
+        <div class="col-xs-1 ">Lun</div>
+        <div class="col-xs-1 ">Mar</div>
+        <div class="col-xs-1 ">Mier</div>
+        <div class="col-xs-1 ">Jue</div>
+        <div class="col-xs-1 ">Vie</div>
+        <div class="col-xs-1 ">Sáb</div>
+        <div class="col-xs-1 ">Dom</div>
+    </div>
+    <?php 
+    $cont=0;
+    for($i=0;$i<24;$i++)
+    {
+        echo "<div class='row'>";
+            for($j=0;$j<7;$j++)
+            {
+                if($j==0 && $cont>=10)
+                {
+                    echo "<div class='col-xs-3 col-sm-1 col-lg-1' value='$i-$j'>  ".$cont.":00</div>";
+                    $cont++;
+                }
+                if($j==0 && $cont<10)
+                {
+                    echo "<div class='col-xs-3 col-sm-1 col-lg-1' value='$i-$j'> 0".$cont.":00</div>";
+                    $cont++;
+                }    
+                echo "<div class='col-xs-1 calendar' value='$i-$j' id='$i-$j'>x</div>";
+            }   
+        echo "</div>";
+    }
+    echo "<br>";
+    $form->prepare();// Asegura que los elementos pueden ser usados
+    $form->setAttribute('method', 'post');
+    $form->setAttribute('class','form-configuracion');
+    $form->setAttribute('role','form');?>
+    <div class="container">
+    <?php 
+        echo $this->form()->openTag($form);
+        foreach($form->getElements() as $campo)
+        {
+            echo $this->formRow($campo)."<br>";            
+        }
+        echo $this->form()->closeTag()
+    ?>
+    </div>
+</div>

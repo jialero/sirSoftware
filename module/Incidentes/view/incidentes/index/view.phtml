@@ -1,0 +1,41 @@
+<?php // "Incidentes/index/view" template ?>
+<!-- This is from the $view View Model, and the "Incidentes/index/view" template -->
+<div class="row content">
+    <div class="col-sm-3 col-md-3 sidebar">
+        <?php  echo "<pre>".$this->articulo."</pre>";  ?>
+        <a href="<?php $this->basePath().'/incidentes/index/index'; ?>">Llama index</a>
+        <?php echo $this->article ?>
+    </div>
+    <div class="col-sm-9 col-sm-offset-2 col-md-10 col-md-offset-3 main">
+        <?php echo $this->sidebar_primary ?>
+        <?php echo $this->sidebar_secondary ?>
+    </div>
+    
+</div>
+
+
+
+<!-- This is from the $view View Model, and the "content/article/view" template -->
+<div class="row content">
+    <!-- This is from the $articleView View Model, and the "content/article"
+         template -->
+    <article class="span8">
+       aqui va article... 
+    </article>
+
+    <!-- This is from the $primarySidebarView View Model, and the
+         "content/main-sidebar" template -->
+    <div class="span2 sidebar">
+        sidebar...
+    </div>
+
+    <!-- This is from the $secondarySidebarView View Model, and the
+         "content/secondary-sidebar" template -->
+    <div class="span2 sidebar pull-right">
+        <!-- This is from the $sidebarBlockView View Model, and the
+            "content/block" template -->
+        <div class="block">
+            block content...
+        </div>
+    </div>
+</div>

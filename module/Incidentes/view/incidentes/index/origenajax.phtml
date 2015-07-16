@@ -1,0 +1,27 @@
+<script>
+$(document).ready(inicio);
+
+function inicio(){
+    var x=$(".cargar");
+    x.click(cargar);
+
+        function cargar(){
+            $.ajax({
+            async: true,
+            type: "POST",
+            url: "<?=$this->basePath("incidentes/index/usuariosajax")?>",
+            success: function(datos){
+                    $("#usuarios").html(datos);
+                }
+            });
+            return false;
+        }
+}
+</script>
+
+<h1>Probando AJAX con ZF2</h1>
+
+<button class="cargar">Cargar</button>
+
+<div id="usuarios"></div>
+
